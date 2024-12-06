@@ -1,0 +1,2945 @@
+{
+    "statusCode": 200,
+    "success": true,
+    "data": {
+        "products": [
+            {
+                "id": "j5gkczvjqbeogtij385plfy3",
+                "title": "COSRX The Retinol 0.1 Cream 20ml",
+                "subtitle": null,
+                "description": "<span class=\"a-list-item\">Retinol 0.1% Cream: Retinol helps reduce signs of aging such as fine lines and wrinkles to achieve smoother, firmer, and more youthful-looking skin. It helps renew and resurface the skin and leaves the face glowing with radiance.</span>\r\n\r\n<u>BENEFITS</u>\r\n\r\n• Improves the appearance of fine lines, creases, and wrinkles\r\n• Increases skin elasticity\r\n• Smooths skin texture\r\n• Prevents acne &amp; fades scarring\r\n• Moisturizes\r\n\r\n<u>TARGETS</u>\r\n\r\n• First signs of aging, just emerging creases and wrinkles\r\n• Noticing creases\r\n• Skin aging\r\n• Rough and dull skin\r\n• Loss of skin firming\r\n<div class=\"acc_content_area act\">\r\n\r\n&nbsp;\r\n\r\nExpiry: 10.05.2026\r\n\r\n&nbsp;\r\n\r\n</div>\r\n<strong>Country of Origin:</strong> South Korea\r\n\r\n<strong>Manufacturer:</strong> Amore Pacific Co., Ltd.\r\n\r\n<strong>Address:</strong> 37, Gajisanseopdong-ro, Osan-si, Gyeonggi-do, South Korea\r\n\r\n<strong>Importer:</strong> Beauty Barn\r\n\r\n<strong>Address:</strong> 983/18, Tajen Ao Road, Dimapur – 797112, Nagaland, India\r\n\r\n<strong>Packer:</strong> Amore Pacific Co., Ltd.\r\n\r\n<strong>Address:</strong> 37, Gajisanseopdong-ro, Osan-si, Gyeonggi-do, South Korea\r\n\r\n&nbsp;\r\n\r\n&nbsp;",
+                "handle": "cosrx-the-retinol-0-1-cream-20ml",
+                "weight": null,
+                "height": null,
+                "width": null,
+                "length": null,
+                "hs_code": null,
+                "origin_country": null,
+                "mid_code": null,
+                "material": null,
+                "metadata": {
+                    "excerpt": ""
+                },
+                "createdAt": "2022-12-10T00:00:48.000Z",
+                "updatedAt": "2024-11-30T10:30:21.073Z",
+                "tags": [],
+                "brandId": "nbdho6wnnbd0v3dy7h36cgqa",
+                "status": "ACTIVE",
+                "createdById": null,
+                "productCategoryId": null,
+                "thumbnail": "assets/2022/12/RET.jpg",
+                "productAttributeGroupId": "cm38juptd008ndxauq15ejjz1",
+                "metaTitle": null,
+                "metaDescription": null,
+                "brand": {
+                    "id": "nbdho6wnnbd0v3dy7h36cgqa",
+                    "title": "Cosrx",
+                    "description": "With COS standing for cosmetics, and RX for prescriptions, COSRX has a very simple philosophy– simple ingredients that result in great formulas. K-beauty fans love their effective ingredients like snail mucin, yeast ferment, and skin-friendly exfoliants. Check out their bestsellers and new additions!",
+                    "handle": "cosrx",
+                    "image": "assets/2024/09/MainArtboard-2-31.jpg",
+                    "createdAt": "2024-11-01T01:30:47.220Z",
+                    "updatedAt": "2024-11-01T01:30:47.220Z",
+                    "deletedAt": null,
+                    "status": "ACTIVE",
+                    "metadata": null,
+                    "createdById": null
+                },
+                "productCategory": null,
+                "productCollections": [],
+                "productValuesForAttribute": [
+                    {
+                        "id": "cm441789d0232rypkdoh8cgbo",
+                        "productId": "j5gkczvjqbeogtij385plfy3",
+                        "productAttributeId": "cm43pl4z7004crypk034hwa49",
+                        "productAttributeValueId": "cm43rvmnv009grypkfpcfi2jx",
+                        "value": null,
+                        "productAttribute": {
+                            "id": "cm43pl4z7004crypk034hwa49",
+                            "title": "Skin Type",
+                            "type": "SELECT",
+                            "code": "SKIN_TY",
+                            "isRequired": false,
+                            "isUnique": false,
+                            "createdAt": "2024-11-30T05:05:14.612Z",
+                            "updatedAt": "2024-11-30T06:09:23.323Z",
+                            "deletedAt": null,
+                            "metadata": null,
+                            "createdById": "cm2xp9y9h0001lov6pl5y4nic"
+                        },
+                        "productAttributeValue": {
+                            "id": "cm43rvmnv009grypkfpcfi2jx",
+                            "productAttributeId": "cm43pl4z7004crypk034hwa49",
+                            "value": "Normal",
+                            "position": 3,
+                            "createdAt": "2024-11-30T06:09:23.323Z",
+                            "updatedAt": "2024-11-30T06:09:23.323Z",
+                            "deletedAt": null,
+                            "metadata": null
+                        }
+                    },
+                    {
+                        "id": "cm441789d0231rypkl3eyq5hf",
+                        "productId": "j5gkczvjqbeogtij385plfy3",
+                        "productAttributeId": "cm43p9mho002irypkkletlbtz",
+                        "productAttributeValueId": "cm43roy600076rypkh91w5yzw",
+                        "value": null,
+                        "productAttribute": {
+                            "id": "cm43p9mho002irypkkletlbtz",
+                            "title": "Skin Concern",
+                            "type": "SELECT",
+                            "code": "SKIN_CON",
+                            "isRequired": false,
+                            "isUnique": false,
+                            "createdAt": "2024-11-30T04:56:17.437Z",
+                            "updatedAt": "2024-11-30T06:04:11.640Z",
+                            "deletedAt": null,
+                            "metadata": null,
+                            "createdById": "cm2xp9y9h0001lov6pl5y4nic"
+                        },
+                        "productAttributeValue": {
+                            "id": "cm43roy600076rypkh91w5yzw",
+                            "productAttributeId": "cm43p9mho002irypkkletlbtz",
+                            "value": "Best Anti-Aging Products Online",
+                            "position": 0,
+                            "createdAt": "2024-11-30T06:04:11.640Z",
+                            "updatedAt": "2024-11-30T06:04:11.640Z",
+                            "deletedAt": null,
+                            "metadata": null
+                        }
+                    },
+                    {
+                        "id": "cm441789d0233rypkoa9vjsx5",
+                        "productId": "j5gkczvjqbeogtij385plfy3",
+                        "productAttributeId": "cm43q0lsm0058rypknz8wzsvv",
+                        "productAttributeValueId": null,
+                        "value": null,
+                        "productAttribute": {
+                            "id": "cm43q0lsm0058rypknz8wzsvv",
+                            "title": "Routine",
+                            "type": "SELECT",
+                            "code": "ROUTINE",
+                            "isRequired": false,
+                            "isUnique": false,
+                            "createdAt": "2024-11-30T05:17:16.247Z",
+                            "updatedAt": "2024-12-02T06:30:20.077Z",
+                            "deletedAt": null,
+                            "metadata": null,
+                            "createdById": "cm2xp9y9h0001lov6pl5y4nic"
+                        },
+                        "productAttributeValue": null
+                    }
+                ],
+                "variants": [
+                    {
+                        "id": "qiy55dbqy0z82q3cv2qth43f",
+                        "productId": "j5gkczvjqbeogtij385plfy3",
+                        "title": "Default",
+                        "sku": "557455",
+                        "barcode": null,
+                        "ean": null,
+                        "upc": null,
+                        "inventoryQuantity": 10,
+                        "allowBackOrder": false,
+                        "manageInventory": true,
+                        "hsCode": null,
+                        "originCountry": null,
+                        "midCode": null,
+                        "material": null,
+                        "weight": null,
+                        "height": null,
+                        "length": null,
+                        "width": null,
+                        "variantRank": 420,
+                        "price": 2050,
+                        "specialPrice": 1550,
+                        "specialPriceStartDate": null,
+                        "specialPriceEndDate": null,
+                        "inventory": 0,
+                        "metadata": null,
+                        "createdAt": "2024-11-01T01:31:02.935Z",
+                        "deletedAt": null,
+                        "updatedAt": "2024-12-03T04:22:07.885Z",
+                        "thumbnail": "assets/2022/12/RET.jpg",
+                        "createdById": null,
+                        "prices": [],
+                        "originalPrice": 2050,
+                        "currentPrice": 1550,
+                        "salePrices": {}
+                    }
+                ],
+                "productImages": [
+                    {
+                        "id": "miugl3wu8tk45nsdw7j71drx",
+                        "productId": "j5gkczvjqbeogtij385plfy3",
+                        "image": "assets/2022/12/TheRetinol_Cream_12_360x.webp",
+                        "order": 0,
+                        "createdAt": "2024-11-01T01:31:03.035Z",
+                        "updatedAt": "2024-11-01T01:31:03.035Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    },
+                    {
+                        "id": "h03ku3qxuzs2k0pa2fe6w3xi",
+                        "productId": "j5gkczvjqbeogtij385plfy3",
+                        "image": "assets/2022/12/TheRetinol_Cream_4_720x.webp",
+                        "order": 3,
+                        "createdAt": "2024-11-01T01:31:03.075Z",
+                        "updatedAt": "2024-11-01T01:31:03.075Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    },
+                    {
+                        "id": "pgg0bceepl30i7vdw67npbs9",
+                        "productId": "j5gkczvjqbeogtij385plfy3",
+                        "image": "assets/2022/12/TheRetinol_Cream_5_720x.webp",
+                        "order": 4,
+                        "createdAt": "2024-11-01T01:31:03.077Z",
+                        "updatedAt": "2024-11-01T01:31:03.077Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    },
+                    {
+                        "id": "mbodq98km3ad6tmk7z8y2u5e",
+                        "productId": "j5gkczvjqbeogtij385plfy3",
+                        "image": "assets/2022/12/TheRetinol_Cream_2_3_720x.webp",
+                        "order": 1,
+                        "createdAt": "2024-11-01T01:31:03.045Z",
+                        "updatedAt": "2024-11-01T01:31:03.045Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    },
+                    {
+                        "id": "w8j8k3ancifh5zv5h2h2d4em",
+                        "productId": "j5gkczvjqbeogtij385plfy3",
+                        "image": "assets/2022/12/TheRetinol_Cream_3_720x.webp",
+                        "order": 2,
+                        "createdAt": "2024-11-01T01:31:03.064Z",
+                        "updatedAt": "2024-11-01T01:31:03.064Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    }
+                ],
+                "reviews": [
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 4
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 4
+                    },
+                    {
+                        "rating": 4
+                    },
+                    {
+                        "rating": 5
+                    }
+                ],
+                "_count": {
+                    "lineItems": 6
+                },
+                "averageRating": 4.5,
+                "priceStart": 1550,
+                "priceEnd": null
+            },
+            {
+                "id": "odrzlesfnhfii9hyi907poti",
+                "title": "DIWALI FESTIVE FREEBIE ABOVE 1999",
+                "subtitle": null,
+                "description": "",
+                "handle": "diwali-festive-freebie-above-1999",
+                "weight": null,
+                "height": null,
+                "width": null,
+                "length": null,
+                "hs_code": null,
+                "origin_country": null,
+                "mid_code": null,
+                "material": null,
+                "metadata": {
+                    "excerpt": ""
+                },
+                "createdAt": "2024-10-24T23:39:15.000Z",
+                "updatedAt": "2024-11-01T01:31:02.125Z",
+                "tags": [],
+                "brandId": null,
+                "status": "ACTIVE",
+                "createdById": null,
+                "productCategoryId": null,
+                "thumbnail": "assets/2024/10/Artboard-1-1.gif",
+                "productAttributeGroupId": null,
+                "metaTitle": null,
+                "metaDescription": null,
+                "brand": null,
+                "productCategory": null,
+                "productCollections": [],
+                "productValuesForAttribute": [],
+                "variants": [
+                    {
+                        "id": "cdnroszaxstmpl0t1b4zyxwe",
+                        "productId": "odrzlesfnhfii9hyi907poti",
+                        "title": "Default",
+                        "sku": "1014053",
+                        "barcode": null,
+                        "ean": null,
+                        "upc": null,
+                        "inventoryQuantity": 54,
+                        "allowBackOrder": false,
+                        "manageInventory": true,
+                        "hsCode": null,
+                        "originCountry": null,
+                        "midCode": null,
+                        "material": null,
+                        "weight": null,
+                        "height": null,
+                        "length": null,
+                        "width": null,
+                        "variantRank": 3,
+                        "price": 1999,
+                        "specialPrice": null,
+                        "specialPriceStartDate": null,
+                        "specialPriceEndDate": null,
+                        "inventory": 0,
+                        "metadata": null,
+                        "createdAt": "2024-11-01T01:31:02.182Z",
+                        "deletedAt": null,
+                        "updatedAt": "2024-12-03T11:44:16.153Z",
+                        "thumbnail": "assets/2024/10/Artboard-1-1.gif",
+                        "createdById": null,
+                        "prices": [],
+                        "originalPrice": 1999,
+                        "currentPrice": 1999,
+                        "salePrices": {}
+                    }
+                ],
+                "productImages": [],
+                "reviews": [],
+                "_count": {
+                    "lineItems": 6
+                },
+                "averageRating": null,
+                "priceStart": 1999,
+                "priceEnd": null
+            },
+            {
+                "id": "qklh8vo1yheh6p9iux3yrzdl",
+                "title": "DIWALI FESTIVE FREEBIE ABOVE 4999",
+                "subtitle": null,
+                "description": "",
+                "handle": "diwali-festive-freebie-above-4999",
+                "weight": null,
+                "height": null,
+                "width": null,
+                "length": null,
+                "hs_code": null,
+                "origin_country": null,
+                "mid_code": null,
+                "material": null,
+                "metadata": {
+                    "excerpt": ""
+                },
+                "createdAt": "2024-10-24T23:39:38.000Z",
+                "updatedAt": "2024-11-01T01:31:02.123Z",
+                "tags": [],
+                "brandId": null,
+                "status": "ACTIVE",
+                "createdById": null,
+                "productCategoryId": null,
+                "thumbnail": "assets/2024/10/Cosrx-AC-Collection-Calming-Foam-Cleanser-150ml.jpg",
+                "productAttributeGroupId": null,
+                "metaTitle": null,
+                "metaDescription": null,
+                "brand": null,
+                "productCategory": null,
+                "productCollections": [],
+                "productValuesForAttribute": [],
+                "variants": [
+                    {
+                        "id": "fjkq77a61lhdi8v1k8g56mg0",
+                        "productId": "qklh8vo1yheh6p9iux3yrzdl",
+                        "title": "Default",
+                        "sku": "1014055",
+                        "barcode": null,
+                        "ean": null,
+                        "upc": null,
+                        "inventoryQuantity": 0,
+                        "allowBackOrder": false,
+                        "manageInventory": true,
+                        "hsCode": null,
+                        "originCountry": null,
+                        "midCode": null,
+                        "material": null,
+                        "weight": null,
+                        "height": null,
+                        "length": null,
+                        "width": null,
+                        "variantRank": 4,
+                        "price": 4999,
+                        "specialPrice": null,
+                        "specialPriceStartDate": null,
+                        "specialPriceEndDate": null,
+                        "inventory": 0,
+                        "metadata": null,
+                        "createdAt": "2024-11-01T01:31:02.183Z",
+                        "deletedAt": null,
+                        "updatedAt": "2024-12-01T15:32:37.998Z",
+                        "thumbnail": "assets/2024/10/Cosrx-AC-Collection-Calming-Foam-Cleanser-150ml.jpg",
+                        "createdById": null,
+                        "prices": [],
+                        "originalPrice": 4999,
+                        "currentPrice": 4999,
+                        "salePrices": {}
+                    }
+                ],
+                "productImages": [],
+                "reviews": [],
+                "_count": {
+                    "lineItems": 11
+                },
+                "averageRating": null,
+                "priceStart": 4999,
+                "priceEnd": null
+            },
+            {
+                "id": "f3v5f7jwa9lgc1fdqkc1w76v",
+                "title": "BRIDAL GLOW PACKAGE FOR DRY SKIN",
+                "subtitle": null,
+                "description": "",
+                "handle": "bridal-package-for-dry-skin",
+                "weight": null,
+                "height": null,
+                "width": null,
+                "length": null,
+                "hs_code": null,
+                "origin_country": null,
+                "mid_code": null,
+                "material": null,
+                "metadata": {
+                    "excerpt": ""
+                },
+                "createdAt": "2024-10-05T16:27:00.000Z",
+                "updatedAt": "2024-11-01T01:31:02.127Z",
+                "tags": [],
+                "brandId": "nbdho6wnnbd0v3dy7h36cgqa",
+                "status": "ACTIVE",
+                "createdById": null,
+                "productCategoryId": null,
+                "thumbnail": "assets/2024/10/MainArtboard-1-35.jpg",
+                "productAttributeGroupId": null,
+                "metaTitle": null,
+                "metaDescription": null,
+                "brand": {
+                    "id": "nbdho6wnnbd0v3dy7h36cgqa",
+                    "title": "Cosrx",
+                    "description": "With COS standing for cosmetics, and RX for prescriptions, COSRX has a very simple philosophy– simple ingredients that result in great formulas. K-beauty fans love their effective ingredients like snail mucin, yeast ferment, and skin-friendly exfoliants. Check out their bestsellers and new additions!",
+                    "handle": "cosrx",
+                    "image": "assets/2024/09/MainArtboard-2-31.jpg",
+                    "createdAt": "2024-11-01T01:30:47.220Z",
+                    "updatedAt": "2024-11-01T01:30:47.220Z",
+                    "deletedAt": null,
+                    "status": "ACTIVE",
+                    "metadata": null,
+                    "createdById": null
+                },
+                "productCategory": null,
+                "productCollections": [],
+                "productValuesForAttribute": [],
+                "variants": [
+                    {
+                        "id": "svwair66k6onxvgly1vjvcqq",
+                        "productId": "f3v5f7jwa9lgc1fdqkc1w76v",
+                        "title": "Default",
+                        "sku": "999502",
+                        "barcode": null,
+                        "ean": null,
+                        "upc": null,
+                        "inventoryQuantity": 40,
+                        "allowBackOrder": false,
+                        "manageInventory": true,
+                        "hsCode": null,
+                        "originCountry": null,
+                        "midCode": null,
+                        "material": null,
+                        "weight": null,
+                        "height": null,
+                        "length": null,
+                        "width": null,
+                        "variantRank": 20,
+                        "price": 13100,
+                        "specialPrice": 6550,
+                        "specialPriceStartDate": null,
+                        "specialPriceEndDate": null,
+                        "inventory": 0,
+                        "metadata": null,
+                        "createdAt": "2024-11-01T01:31:02.184Z",
+                        "deletedAt": null,
+                        "updatedAt": "2024-12-03T10:44:52.793Z",
+                        "thumbnail": "assets/2024/10/MainArtboard-1-35.jpg",
+                        "createdById": null,
+                        "prices": [],
+                        "originalPrice": 13100,
+                        "currentPrice": 6550,
+                        "salePrices": {}
+                    }
+                ],
+                "productImages": [],
+                "reviews": [],
+                "_count": {
+                    "lineItems": 1
+                },
+                "averageRating": null,
+                "priceStart": 6550,
+                "priceEnd": null
+            },
+            {
+                "id": "hjtc4vesz6h1f9th81917tmp",
+                "title": "DIWALI FESTIVE FREEBIE ABOVE 7999",
+                "subtitle": null,
+                "description": "",
+                "handle": "diwali-festive-freebie-above-7999",
+                "weight": null,
+                "height": null,
+                "width": null,
+                "length": null,
+                "hs_code": null,
+                "origin_country": null,
+                "mid_code": null,
+                "material": null,
+                "metadata": {
+                    "excerpt": ""
+                },
+                "createdAt": "2024-10-24T23:40:16.000Z",
+                "updatedAt": "2024-11-29T17:31:40.639Z",
+                "tags": [],
+                "brandId": null,
+                "status": "ACTIVE",
+                "createdById": null,
+                "productCategoryId": null,
+                "thumbnail": "assets/2024/10/Artboard-2-3.jpg",
+                "productAttributeGroupId": "cm38juptd008ndxauq15ejjz1",
+                "metaTitle": null,
+                "metaDescription": null,
+                "brand": null,
+                "productCategory": null,
+                "productCollections": [],
+                "productValuesForAttribute": [],
+                "variants": [
+                    {
+                        "id": "ua5e8r5vps06msgdjiywb2uc",
+                        "productId": "hjtc4vesz6h1f9th81917tmp",
+                        "title": "Default",
+                        "sku": "1014058",
+                        "barcode": null,
+                        "ean": null,
+                        "upc": null,
+                        "inventoryQuantity": 15,
+                        "allowBackOrder": false,
+                        "manageInventory": true,
+                        "hsCode": null,
+                        "originCountry": null,
+                        "midCode": null,
+                        "material": null,
+                        "weight": null,
+                        "height": null,
+                        "length": null,
+                        "width": null,
+                        "variantRank": 10,
+                        "price": 7999,
+                        "specialPrice": null,
+                        "specialPriceStartDate": null,
+                        "specialPriceEndDate": null,
+                        "inventory": 0,
+                        "metadata": null,
+                        "createdAt": "2024-11-01T01:31:02.182Z",
+                        "deletedAt": null,
+                        "updatedAt": "2024-12-06T04:18:41.474Z",
+                        "thumbnail": "assets/2024/10/Artboard-2-3.jpg",
+                        "createdById": null,
+                        "prices": [],
+                        "originalPrice": 7999,
+                        "currentPrice": 7999,
+                        "salePrices": {}
+                    }
+                ],
+                "productImages": [],
+                "reviews": [],
+                "_count": {
+                    "lineItems": 49
+                },
+                "averageRating": null,
+                "priceStart": 7999,
+                "priceEnd": null
+            },
+            {
+                "id": "zfoacbq4vg76rdrs8ehhxspc",
+                "title": "COSRX Slow Ageing Night Repair Duo (For Dry Skin)",
+                "subtitle": null,
+                "description": "This powerful 2-step routine is designed to combat fine lines, wrinkles, and extreme dryness. If you’re concerned about extreme dryness and signs of aging, this simple routine effectively targets wrinkles while keeping your skin deeply hydrated. <strong>For best results</strong>: Use consistently for at least 3-4 months.\r\n<ul>\r\n \t<li>\r\n<div class=\"flex-1 overflow-hidden\">\r\n<div class=\"h-full\">\r\n<div class=\"react-scroll-to-bottom--css-jfhyj-79elbk h-full\">\r\n<div class=\"react-scroll-to-bottom--css-jfhyj-1n7m0yu\">\r\n<div class=\"flex flex-col text-sm\"><article class=\"w-full text-token-text-primary focus-visible:outline-2 focus-visible:outline-offset-[-4px]\" dir=\"auto\" data-testid=\"conversation-turn-15\" data-scroll-anchor=\"true\">\r\n<div class=\"text-base py-[18px] px-3 md:px-4 m-auto w-full md:px-5 lg:px-4 xl:px-5\">\r\n<div class=\"mx-auto flex flex-1 gap-4 text-base md:gap-5 lg:gap-6 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem]\">\r\n<div class=\"group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn\">\r\n<div class=\"flex-col gap-1 md:gap-3\">\r\n<div class=\"flex max-w-full flex-col flex-grow\">\r\n<div class=\"min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words [.text-message+&amp;]:mt-5\" dir=\"auto\" data-message-author-role=\"assistant\" data-message-id=\"993cd5ed-ab89-4204-b4be-5b423eb4ffe9\">\r\n<div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[3px]\">\r\n<div class=\"markdown prose w-full break-words dark:prose-invert light\">\r\n<h3><strong>How to Layer the Routine:</strong></h3>\r\n<ol>\r\n \t<li><strong>Step 1: Retinol Oil</strong>\r\nAfter cleansing and toning, apply the Retinol Oil to your face. Retinol should always go first since it's the active ingredient targeting fine lines and wrinkles. Gently massage it into your skin, avoiding the eye area. Start using it 1-2 times a week and increase frequency as your skin builds tolerance.</li>\r\n \t<li><strong>Step 2: Hyaluronic Cream</strong>\r\nAfter the Retinol Oil has absorbed (wait about 1-2 minutes), apply the Hyaluronic Cream. This will lock in moisture and deeply hydrate your skin, helping to combat the dryness that can come with retinol use.</li>\r\n</ol>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"pr-2 lg:pr-0\">Always remember to apply sunscreen during the day, especially when using retinol, as it can make your skin more sensitive to the sun.</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</article></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div></li>\r\n</ul>",
+                "handle": "cosrx-slow-ageing-night-repair-duo-for-dry-skin",
+                "weight": null,
+                "height": null,
+                "width": null,
+                "length": null,
+                "hs_code": null,
+                "origin_country": null,
+                "mid_code": null,
+                "material": null,
+                "metadata": {
+                    "excerpt": ""
+                },
+                "createdAt": "2024-09-26T14:30:31.000Z",
+                "updatedAt": "2024-11-01T01:31:02.142Z",
+                "tags": [],
+                "brandId": "nbdho6wnnbd0v3dy7h36cgqa",
+                "status": "ACTIVE",
+                "createdById": null,
+                "productCategoryId": null,
+                "thumbnail": "assets/2024/09/COSRX-Product-Bundle-2.jpg",
+                "productAttributeGroupId": null,
+                "metaTitle": null,
+                "metaDescription": null,
+                "brand": {
+                    "id": "nbdho6wnnbd0v3dy7h36cgqa",
+                    "title": "Cosrx",
+                    "description": "With COS standing for cosmetics, and RX for prescriptions, COSRX has a very simple philosophy– simple ingredients that result in great formulas. K-beauty fans love their effective ingredients like snail mucin, yeast ferment, and skin-friendly exfoliants. Check out their bestsellers and new additions!",
+                    "handle": "cosrx",
+                    "image": "assets/2024/09/MainArtboard-2-31.jpg",
+                    "createdAt": "2024-11-01T01:30:47.220Z",
+                    "updatedAt": "2024-11-01T01:30:47.220Z",
+                    "deletedAt": null,
+                    "status": "ACTIVE",
+                    "metadata": null,
+                    "createdById": null
+                },
+                "productCategory": null,
+                "productCollections": [],
+                "productValuesForAttribute": [],
+                "variants": [
+                    {
+                        "id": "cxc6w9h6sjq5rizkvdnj2040",
+                        "productId": "zfoacbq4vg76rdrs8ehhxspc",
+                        "title": "Default",
+                        "sku": "1001095",
+                        "barcode": null,
+                        "ean": null,
+                        "upc": null,
+                        "inventoryQuantity": 17,
+                        "allowBackOrder": false,
+                        "manageInventory": true,
+                        "hsCode": null,
+                        "originCountry": null,
+                        "midCode": null,
+                        "material": null,
+                        "weight": null,
+                        "height": null,
+                        "length": null,
+                        "width": null,
+                        "variantRank": 30,
+                        "price": 3700,
+                        "specialPrice": 2405,
+                        "specialPriceStartDate": null,
+                        "specialPriceEndDate": null,
+                        "inventory": 0,
+                        "metadata": null,
+                        "createdAt": "2024-11-01T01:31:02.185Z",
+                        "deletedAt": null,
+                        "updatedAt": "2024-12-03T10:44:52.795Z",
+                        "thumbnail": "assets/2024/09/COSRX-Product-Bundle-2.jpg",
+                        "createdById": null,
+                        "prices": [],
+                        "originalPrice": 3700,
+                        "currentPrice": 2405,
+                        "salePrices": {}
+                    }
+                ],
+                "productImages": [],
+                "reviews": [],
+                "_count": {
+                    "lineItems": 3
+                },
+                "averageRating": null,
+                "priceStart": 2405,
+                "priceEnd": null
+            },
+            {
+                "id": "zrcsjk37q27e4puxibba0vdt",
+                "title": "COSRX The Retinol 0.5 Oil 20ml",
+                "subtitle": null,
+                "description": "Feel the benefits of Retinol without irritation with The Retinol 0.5 Oil by COSRX. This rich and silky night oil provides a healthy glow and hydrated skin. A gentle but concentrated .5% of pure retinol improves the appearance of fine lines, creases, and wrinkles and enhances elasticity.\r\n\r\nThis serum is safe for all skin types, and best for skin accustomed to retinol but still experiencing progressive signs of aging such as loss of elasticity and dryness. It's an intermediate-level retinol for those looking for a highly concentrated, youth booster.\r\n\r\nVitamin A supports collagen production and skin cell turnover, squalene protects and moisturizes the skin, and vitamin E reduces visible signs of aging and skin damage.\r\n\r\nFormulated without fragrance, parabens, sulfates, artificial colors, alcohol, mineral oil, and silicone.\r\n\r\n<strong><u>BENEFITS</u></strong>\r\n\r\n• Improves the appearance of fine lines, creases, and wrinkles\r\n• Enhances skin elasticity\r\n• Improves skin radiance\r\n• Moisturizes &amp; Nourishes\r\n\r\n<strong><u>TARGETS</u></strong>\r\n\r\n• Initial and progressive signs of aging and loss of firmness\r\n• Loss of skin elasticity &amp; moisture\r\n• Acne, breakouts\r\n• Fine lines and wrinkles\r\n\r\n<strong>KEY INGREDIENTS</strong>\r\n\r\n<strong>• Pure retinol (Vitamin A) :</strong>\r\nAccelerates collagen production and skin turnover to improve fine lines\r\n\r\n<strong>• Plant-derived squalane :</strong>\r\nProtects the skin from external irritation\r\n\r\n<strong>• Tocotrienol (Super Vitamin E) :</strong>\r\nReduces visible signs of aging and skin damage\r\n\r\nExpiry - 25.04.2026\r\n\r\n&nbsp;\r\n\r\n<strong>Country of Origin:</strong> South Korea\r\n\r\n<strong>Manufacturer:</strong> Amore Pacific Co., Ltd.\r\n\r\n<strong>Address:</strong> 37, Gajisanseopdong-ro, Osan-si, Gyeonggi-do, South Korea\r\n\r\n<strong>Importer:</strong> Beauty Barn\r\n\r\n<strong>Address:</strong> 983/18, Tajen Ao Road, Dimapur – 797112, Nagaland, India\r\n\r\n<strong>Packer:</strong> Amore Pacific Co., Ltd.\r\n\r\n<strong>Address:</strong> 37, Gajisanseopdong-ro, Osan-si, Gyeonggi-do, South Korea",
+                "handle": "cosrx-the-retinol-0-5-oil-20ml",
+                "weight": null,
+                "height": null,
+                "width": null,
+                "length": null,
+                "hs_code": null,
+                "origin_country": null,
+                "mid_code": null,
+                "material": null,
+                "metadata": {
+                    "excerpt": ""
+                },
+                "createdAt": "2023-05-23T11:11:43.000Z",
+                "updatedAt": "2024-11-30T10:36:37.597Z",
+                "tags": [],
+                "brandId": "nbdho6wnnbd0v3dy7h36cgqa",
+                "status": "ACTIVE",
+                "createdById": null,
+                "productCategoryId": null,
+                "thumbnail": "assets/2023/05/1-11.jpg",
+                "productAttributeGroupId": "cm38juptd008ndxauq15ejjz1",
+                "metaTitle": null,
+                "metaDescription": null,
+                "brand": {
+                    "id": "nbdho6wnnbd0v3dy7h36cgqa",
+                    "title": "Cosrx",
+                    "description": "With COS standing for cosmetics, and RX for prescriptions, COSRX has a very simple philosophy– simple ingredients that result in great formulas. K-beauty fans love their effective ingredients like snail mucin, yeast ferment, and skin-friendly exfoliants. Check out their bestsellers and new additions!",
+                    "handle": "cosrx",
+                    "image": "assets/2024/09/MainArtboard-2-31.jpg",
+                    "createdAt": "2024-11-01T01:30:47.220Z",
+                    "updatedAt": "2024-11-01T01:30:47.220Z",
+                    "deletedAt": null,
+                    "status": "ACTIVE",
+                    "metadata": null,
+                    "createdById": null
+                },
+                "productCategory": null,
+                "productCollections": [],
+                "productValuesForAttribute": [
+                    {
+                        "id": "cm441fasd025drypk6ls4xq2i",
+                        "productId": "zrcsjk37q27e4puxibba0vdt",
+                        "productAttributeId": "cm43pl4z7004crypk034hwa49",
+                        "productAttributeValueId": "cm43rvmnv009grypkfpcfi2jx",
+                        "value": null,
+                        "productAttribute": {
+                            "id": "cm43pl4z7004crypk034hwa49",
+                            "title": "Skin Type",
+                            "type": "SELECT",
+                            "code": "SKIN_TY",
+                            "isRequired": false,
+                            "isUnique": false,
+                            "createdAt": "2024-11-30T05:05:14.612Z",
+                            "updatedAt": "2024-11-30T06:09:23.323Z",
+                            "deletedAt": null,
+                            "metadata": null,
+                            "createdById": "cm2xp9y9h0001lov6pl5y4nic"
+                        },
+                        "productAttributeValue": {
+                            "id": "cm43rvmnv009grypkfpcfi2jx",
+                            "productAttributeId": "cm43pl4z7004crypk034hwa49",
+                            "value": "Normal",
+                            "position": 3,
+                            "createdAt": "2024-11-30T06:09:23.323Z",
+                            "updatedAt": "2024-11-30T06:09:23.323Z",
+                            "deletedAt": null,
+                            "metadata": null
+                        }
+                    },
+                    {
+                        "id": "cm441fasd025crypki0u7703f",
+                        "productId": "zrcsjk37q27e4puxibba0vdt",
+                        "productAttributeId": "cm43p9mho002irypkkletlbtz",
+                        "productAttributeValueId": "cm43roy60007arypkfd4fz94v",
+                        "value": null,
+                        "productAttribute": {
+                            "id": "cm43p9mho002irypkkletlbtz",
+                            "title": "Skin Concern",
+                            "type": "SELECT",
+                            "code": "SKIN_CON",
+                            "isRequired": false,
+                            "isUnique": false,
+                            "createdAt": "2024-11-30T04:56:17.437Z",
+                            "updatedAt": "2024-11-30T06:04:11.640Z",
+                            "deletedAt": null,
+                            "metadata": null,
+                            "createdById": "cm2xp9y9h0001lov6pl5y4nic"
+                        },
+                        "productAttributeValue": {
+                            "id": "cm43roy60007arypkfd4fz94v",
+                            "productAttributeId": "cm43p9mho002irypkkletlbtz",
+                            "value": "Acne Control Skin Care Products",
+                            "position": 4,
+                            "createdAt": "2024-11-30T06:04:11.640Z",
+                            "updatedAt": "2024-11-30T06:04:11.640Z",
+                            "deletedAt": null,
+                            "metadata": null
+                        }
+                    },
+                    {
+                        "id": "cm441fasd025erypkvr1hytfe",
+                        "productId": "zrcsjk37q27e4puxibba0vdt",
+                        "productAttributeId": "cm43q0lsm0058rypknz8wzsvv",
+                        "productAttributeValueId": null,
+                        "value": null,
+                        "productAttribute": {
+                            "id": "cm43q0lsm0058rypknz8wzsvv",
+                            "title": "Routine",
+                            "type": "SELECT",
+                            "code": "ROUTINE",
+                            "isRequired": false,
+                            "isUnique": false,
+                            "createdAt": "2024-11-30T05:17:16.247Z",
+                            "updatedAt": "2024-12-02T06:30:20.077Z",
+                            "deletedAt": null,
+                            "metadata": null,
+                            "createdById": "cm2xp9y9h0001lov6pl5y4nic"
+                        },
+                        "productAttributeValue": null
+                    }
+                ],
+                "variants": [
+                    {
+                        "id": "vrx3hk6gb8kk9f3q518ciy8t",
+                        "productId": "zrcsjk37q27e4puxibba0vdt",
+                        "title": "Default",
+                        "sku": "673487",
+                        "barcode": null,
+                        "ean": null,
+                        "upc": null,
+                        "inventoryQuantity": 51,
+                        "allowBackOrder": false,
+                        "manageInventory": true,
+                        "hsCode": null,
+                        "originCountry": null,
+                        "midCode": null,
+                        "material": null,
+                        "weight": null,
+                        "height": null,
+                        "length": null,
+                        "width": null,
+                        "variantRank": 365,
+                        "price": 2050,
+                        "specialPrice": 1550,
+                        "specialPriceStartDate": null,
+                        "specialPriceEndDate": null,
+                        "inventory": 0,
+                        "metadata": null,
+                        "createdAt": "2024-11-01T01:31:02.853Z",
+                        "deletedAt": null,
+                        "updatedAt": "2024-11-01T01:31:02.853Z",
+                        "thumbnail": "assets/2023/05/1-11.jpg",
+                        "createdById": null,
+                        "prices": [],
+                        "originalPrice": 2050,
+                        "currentPrice": 1550,
+                        "salePrices": {}
+                    }
+                ],
+                "productImages": [
+                    {
+                        "id": "bj8r923ioifvsphthnrp4u4g",
+                        "productId": "zrcsjk37q27e4puxibba0vdt",
+                        "image": "assets/2018/06/LOA.jpg",
+                        "order": 0,
+                        "createdAt": "2024-11-01T01:31:02.861Z",
+                        "updatedAt": "2024-11-01T01:31:02.861Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    },
+                    {
+                        "id": "glz89nnfwcwjuvmjc9xg2sl2",
+                        "productId": "zrcsjk37q27e4puxibba0vdt",
+                        "image": "assets/2023/05/9-1.jpg",
+                        "order": 5,
+                        "createdAt": "2024-11-01T01:31:02.911Z",
+                        "updatedAt": "2024-11-01T01:31:02.911Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    },
+                    {
+                        "id": "qc4ykp12fx3vgzz5xsgcida3",
+                        "productId": "zrcsjk37q27e4puxibba0vdt",
+                        "image": "assets/2023/05/8-1.jpg",
+                        "order": 6,
+                        "createdAt": "2024-11-01T01:31:02.913Z",
+                        "updatedAt": "2024-11-01T01:31:02.913Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    },
+                    {
+                        "id": "emye4wr7nex0pyl4vukpdcu3",
+                        "productId": "zrcsjk37q27e4puxibba0vdt",
+                        "image": "assets/2023/05/3-12.jpg",
+                        "order": 7,
+                        "createdAt": "2024-11-01T01:31:02.914Z",
+                        "updatedAt": "2024-11-01T01:31:02.914Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    },
+                    {
+                        "id": "noa10lxw4tr2bauxh39cblup",
+                        "productId": "zrcsjk37q27e4puxibba0vdt",
+                        "image": "assets/2023/05/4-9.jpg",
+                        "order": 3,
+                        "createdAt": "2024-11-01T01:31:02.884Z",
+                        "updatedAt": "2024-11-01T01:31:02.884Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    },
+                    {
+                        "id": "x27uzjj4kuyjbr7w457rmssy",
+                        "productId": "zrcsjk37q27e4puxibba0vdt",
+                        "image": "assets/2023/05/5-8.jpg",
+                        "order": 2,
+                        "createdAt": "2024-11-01T01:31:02.880Z",
+                        "updatedAt": "2024-11-01T01:31:02.880Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    },
+                    {
+                        "id": "hfmlsun08a1u4skflox49s1f",
+                        "productId": "zrcsjk37q27e4puxibba0vdt",
+                        "image": "assets/2023/05/6-2.jpg",
+                        "order": 1,
+                        "createdAt": "2024-11-01T01:31:02.874Z",
+                        "updatedAt": "2024-11-01T01:31:02.874Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    },
+                    {
+                        "id": "yt6n4lidpc7uw4qgfcoka1en",
+                        "productId": "zrcsjk37q27e4puxibba0vdt",
+                        "image": "assets/2023/05/2-11.jpg",
+                        "order": 4,
+                        "createdAt": "2024-11-01T01:31:02.908Z",
+                        "updatedAt": "2024-11-01T01:31:02.908Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    }
+                ],
+                "reviews": [
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 3
+                    }
+                ],
+                "_count": {
+                    "lineItems": 1
+                },
+                "averageRating": 4.666666666666667,
+                "priceStart": 1550,
+                "priceEnd": null
+            },
+            {
+                "id": "ciinunlw0cop7mgteczm8w03",
+                "title": "COSRX Dry & Aging Skin Duo",
+                "subtitle": null,
+                "description": "<p data-sourcepos=\"7:1-7:387\">The Dry &amp; Aging Skin Duo skincare set features a peptide serum and a retinol cream that works to combat skin dryness, loss of elasticity, enlarged pores, and other aging signs. The peptide serum deeply hydrates and plumps the skin, while the retinol cream works to reduce the appearance of wrinkles, improve skin texture, and promote a youthful glow. Together, they work side by side to make your skin visibly firmer, smoother, and brighter.</p>\r\n\r\n<h3 data-sourcepos=\"9:1-9:17\"><span style=\"text-decoration: underline\"><strong>This skincare set includes</strong></span></h3>\r\n<ul data-sourcepos=\"10:1-12:0\">\r\n \t<li data-sourcepos=\"10:1-10:47\">1 pc of <a href=\"https://beautybarn.in/product/cosrx-the-6-peptide-skin-booster-serum-150-ml/\">COSRX The 6 Peptide Skin Booster Serum (150ml)</a></li>\r\n \t<li data-sourcepos=\"11:1-12:0\">1 pc of <a href=\"https://beautybarn.in/product/cosrx-the-retinol-0-1-cream-20ml/\">COSRX The Retinol 0.1 Cream (20ml)</a></li>\r\n</ul>\r\n<h3 data-sourcepos=\"13:1-13:17\"><span style=\"text-decoration: underline\"><strong>Key benefits</strong></span></h3>\r\n<ul data-sourcepos=\"14:1-19:0\">\r\n \t<li data-sourcepos=\"14:1-14:51\">Reduces the appearance of fine lines and wrinkles,</li>\r\n \t<li data-sourcepos=\"14:1-14:51\">Minimizes the appearance of pores,</li>\r\n \t<li data-sourcepos=\"15:1-15:39\">Improves skin elasticity and firmness,</li>\r\n \t<li data-sourcepos=\"16:1-16:38\">Boosts hydration and plumps the skin,</li>\r\n \t<li data-sourcepos=\"17:1-17:32\">Promotes a more even skin tone,</li>\r\n \t<li data-sourcepos=\"18:1-19:0\">Refines skin texture.</li>\r\n</ul>\r\n<h3 data-sourcepos=\"20:1-20:111\"><span style=\"text-decoration: underline\"><strong>Ideal for</strong></span></h3>\r\n<ul>\r\n \t<li data-sourcepos=\"21:1-21:21\">Dry and mature skin,</li>\r\n \t<li data-sourcepos=\"22:1-22:46\">Those concerned with wrinkles and fine lines,</li>\r\n \t<li data-sourcepos=\"23:1-23:38\">Skin lacking firmness and elasticity,</li>\r\n \t<li data-sourcepos=\"24:1-24:54\">Individuals seeking a brighter, more even complexion,</li>\r\n \t<li data-sourcepos=\"25:1-25:41\">Those with rough or uneven skin texture.</li>\r\n</ul>",
+                "handle": "dry-aging-skin-duo",
+                "weight": null,
+                "height": null,
+                "width": null,
+                "length": null,
+                "hs_code": null,
+                "origin_country": null,
+                "mid_code": null,
+                "material": null,
+                "metadata": {
+                    "excerpt": ""
+                },
+                "createdAt": "2024-08-21T12:18:50.000Z",
+                "updatedAt": "2024-11-30T10:32:30.319Z",
+                "tags": [
+                    "Collection",
+                    "COSRX Age Defying Routine",
+                    "COSRX Power Pairings",
+                    "K-Beauty Best Power Duos",
+                    "Peptide Power Duos"
+                ],
+                "brandId": "nbdho6wnnbd0v3dy7h36cgqa",
+                "status": "ACTIVE",
+                "createdById": null,
+                "productCategoryId": "cm3ps888u006i128za461g2go",
+                "thumbnail": "assets/2024/08/MainArtboard-1-1.jpg",
+                "productAttributeGroupId": "cm38juptd008ndxauq15ejjz1",
+                "metaTitle": "",
+                "metaDescription": "",
+                "brand": {
+                    "id": "nbdho6wnnbd0v3dy7h36cgqa",
+                    "title": "Cosrx",
+                    "description": "With COS standing for cosmetics, and RX for prescriptions, COSRX has a very simple philosophy– simple ingredients that result in great formulas. K-beauty fans love their effective ingredients like snail mucin, yeast ferment, and skin-friendly exfoliants. Check out their bestsellers and new additions!",
+                    "handle": "cosrx",
+                    "image": "assets/2024/09/MainArtboard-2-31.jpg",
+                    "createdAt": "2024-11-01T01:30:47.220Z",
+                    "updatedAt": "2024-11-01T01:30:47.220Z",
+                    "deletedAt": null,
+                    "status": "ACTIVE",
+                    "metadata": null,
+                    "createdById": null
+                },
+                "productCategory": {
+                    "id": "cm3ps888u006i128za461g2go",
+                    "name": "Face Serum & Ampoule",
+                    "description": "<h2><strong>Face Serums &amp; Ampoules: Targeted Treatments for Radiant Skin</strong></h2><p>Welcome to our Face Serums &amp; Ampoules category, where potent formulations meet your skin's specific needs! These concentrated skincare products are designed to deliver active ingredients deep into the skin, addressing a variety of concerns such as hydration, aging, dullness, and uneven texture. Whether you're looking to enhance your glow or tackle specific skin issues, our selection of serums and ampoules has something for everyone.</p><h2><strong>What Are Face Serums &amp; Ampoules?</strong></h2><p><strong>Face Serums</strong>are lightweight, fast-absorbing liquids packed with high concentrations of active ingredients. They are formulated to penetrate deeply into the skin, providing targeted treatment for specific concerns like fine lines, dark spots, and dryness.<strong>Ampoules</strong>, on the other hand, are similar to serums but typically contain a higher concentration of active ingredients and are often used as a short-term treatment to boost your skincare routine. They come in small vials or dropper bottles and are perfect for intensive care or when your skin needs an extra boost.</p><h2><strong>Explore Our Range</strong></h2><p>Our curated collection features a variety of face serums and ampoules tailored to address different skin types and concerns:</p><h2><strong>Hydrating Serums</strong></h2><ul><li><p><strong>Moisture Boosters</strong>: Formulated with hyaluronic acid, glycerin, and other humectants, these serums provide intense hydration, plumping the skin and leaving it soft and supple.</p></li></ul><h2><strong>Brightening Serums</strong></h2><ul><li><p><strong>Radiance Enhancers</strong>: Infused with vitamin C, niacinamide, or licorice extract, these serums help to even out skin tone and reduce the appearance of dark spots for a luminous complexion.</p></li></ul><h2><strong>Anti-Aging Ampoules</strong></h2><ul><li><p><strong>Youthful Glow</strong>: Packed with powerful ingredients like retinol, peptides, or antioxidants, these ampoules target fine lines and wrinkles while promoting elasticity for firmer skin.</p></li></ul><h2><strong>Soothing Serums</strong></h2><ul><li><p><strong>Calm &amp; Repair</strong>: Ideal for sensitive or irritated skin, these serums often contain soothing ingredients like aloe vera, chamomile, or centella asiatica to reduce redness and inflammation.</p></li></ul><h2><strong>Key Benefits of Using Face Serums &amp; Ampoules</strong></h2><p>Incorporating face serums and ampoules into your skincare routine offers numerous advantages:</p><ul><li><p><strong>Targeted Treatment</strong>: These products deliver concentrated active ingredients directly to the areas that need them most.</p></li><li><p><strong>Enhanced Absorption</strong>: Lightweight formulations allow for deeper penetration into the skin compared to traditional moisturizers.</p></li><li><p><strong>Customizable Routine</strong>: Easily layer serums and ampoules based on your specific skin concerns for a tailored approach.</p></li><li><p><strong>Visible Results</strong>: Regular use can lead to noticeable improvements in texture, tone, and overall skin health.</p></li></ul><h2><strong>How to Use Face Serums &amp; Ampoules</strong></h2><ol><li><p><strong>Cleanse</strong>: Start with a gentle cleanser to remove makeup and impurities from your face.</p></li><li><p><strong>Apply Toner (Optional)</strong>: If you use a toner, apply it after cleansing to prepare your skin for better absorption.</p></li><li><p><strong>Use Serum or Ampoule</strong>: Dispense a few drops of serum or ampoule onto your fingertips. Gently press it into your skin using upward motions.</p></li><li><p><strong>Follow with Moisturizer</strong>: After the serum has absorbed, apply your favorite moisturizer to lock in hydration and nutrients.</p></li><li><p><strong>Continue Your Routine</strong>: Complete your regimen with sunscreen in the morning or additional treatments at night.</p></li></ol><h2><strong>Conclusion</strong></h2><p>Transform your skincare routine with our premium selection of face serums and ampoules. Experience the power of concentrated treatments that target your unique skincare needs for healthier, more radiant skin! Shop now to find the perfect products tailored just for you.</p>",
+                    "handle": "face-serum-ampoule",
+                    "image": null,
+                    "parentId": null,
+                    "createdAt": "2024-11-20T11:10:24.702Z",
+                    "updatedAt": "2024-11-20T11:10:24.705Z",
+                    "deletedAt": null,
+                    "rank": 19,
+                    "fullPath": "All Category >> Face Serum & Ampoule",
+                    "fullPathHandle": "face-serum-ampoule",
+                    "metadata": null,
+                    "createdById": "cm2xp9y9h0001lov6pl5y4nic",
+                    "parent": null
+                },
+                "productCollections": [],
+                "productValuesForAttribute": [
+                    {
+                        "id": "cm4419zzj023jrypkdem49q8f",
+                        "productId": "ciinunlw0cop7mgteczm8w03",
+                        "productAttributeId": "cm43pl4z7004crypk034hwa49",
+                        "productAttributeValueId": "cm43rvmnv009grypkfpcfi2jx",
+                        "value": null,
+                        "productAttribute": {
+                            "id": "cm43pl4z7004crypk034hwa49",
+                            "title": "Skin Type",
+                            "type": "SELECT",
+                            "code": "SKIN_TY",
+                            "isRequired": false,
+                            "isUnique": false,
+                            "createdAt": "2024-11-30T05:05:14.612Z",
+                            "updatedAt": "2024-11-30T06:09:23.323Z",
+                            "deletedAt": null,
+                            "metadata": null,
+                            "createdById": "cm2xp9y9h0001lov6pl5y4nic"
+                        },
+                        "productAttributeValue": {
+                            "id": "cm43rvmnv009grypkfpcfi2jx",
+                            "productAttributeId": "cm43pl4z7004crypk034hwa49",
+                            "value": "Normal",
+                            "position": 3,
+                            "createdAt": "2024-11-30T06:09:23.323Z",
+                            "updatedAt": "2024-11-30T06:09:23.323Z",
+                            "deletedAt": null,
+                            "metadata": null
+                        }
+                    },
+                    {
+                        "id": "cm4419zzj023irypksfcg7n2x",
+                        "productId": "ciinunlw0cop7mgteczm8w03",
+                        "productAttributeId": "cm43p9mho002irypkkletlbtz",
+                        "productAttributeValueId": "cm43roy60007brypk36ebefyt",
+                        "value": null,
+                        "productAttribute": {
+                            "id": "cm43p9mho002irypkkletlbtz",
+                            "title": "Skin Concern",
+                            "type": "SELECT",
+                            "code": "SKIN_CON",
+                            "isRequired": false,
+                            "isUnique": false,
+                            "createdAt": "2024-11-30T04:56:17.437Z",
+                            "updatedAt": "2024-11-30T06:04:11.640Z",
+                            "deletedAt": null,
+                            "metadata": null,
+                            "createdById": "cm2xp9y9h0001lov6pl5y4nic"
+                        },
+                        "productAttributeValue": {
+                            "id": "cm43roy60007brypk36ebefyt",
+                            "productAttributeId": "cm43p9mho002irypkkletlbtz",
+                            "value": "Pigmentation Skin Care Products",
+                            "position": 5,
+                            "createdAt": "2024-11-30T06:04:11.640Z",
+                            "updatedAt": "2024-11-30T06:04:11.640Z",
+                            "deletedAt": null,
+                            "metadata": null
+                        }
+                    },
+                    {
+                        "id": "cm4419zzj023krypk8uzkne1o",
+                        "productId": "ciinunlw0cop7mgteczm8w03",
+                        "productAttributeId": "cm43q0lsm0058rypknz8wzsvv",
+                        "productAttributeValueId": null,
+                        "value": null,
+                        "productAttribute": {
+                            "id": "cm43q0lsm0058rypknz8wzsvv",
+                            "title": "Routine",
+                            "type": "SELECT",
+                            "code": "ROUTINE",
+                            "isRequired": false,
+                            "isUnique": false,
+                            "createdAt": "2024-11-30T05:17:16.247Z",
+                            "updatedAt": "2024-12-02T06:30:20.077Z",
+                            "deletedAt": null,
+                            "metadata": null,
+                            "createdById": "cm2xp9y9h0001lov6pl5y4nic"
+                        },
+                        "productAttributeValue": null
+                    }
+                ],
+                "variants": [
+                    {
+                        "id": "buipdzfq2l1bzg5wvjoyumx2",
+                        "productId": "ciinunlw0cop7mgteczm8w03",
+                        "title": "Default",
+                        "sku": "976244",
+                        "barcode": null,
+                        "ean": null,
+                        "upc": null,
+                        "inventoryQuantity": 26,
+                        "allowBackOrder": false,
+                        "manageInventory": true,
+                        "hsCode": null,
+                        "originCountry": null,
+                        "midCode": null,
+                        "material": null,
+                        "weight": null,
+                        "height": null,
+                        "length": null,
+                        "width": null,
+                        "variantRank": 91,
+                        "price": 4100,
+                        "specialPrice": 2870,
+                        "specialPriceStartDate": null,
+                        "specialPriceEndDate": null,
+                        "inventory": 0,
+                        "metadata": null,
+                        "createdAt": "2024-11-01T01:31:02.318Z",
+                        "deletedAt": null,
+                        "updatedAt": "2024-11-01T01:31:02.318Z",
+                        "thumbnail": "assets/2024/08/MainArtboard-1-1.jpg",
+                        "createdById": null,
+                        "prices": [],
+                        "originalPrice": 4100,
+                        "currentPrice": 2870,
+                        "salePrices": {}
+                    }
+                ],
+                "productImages": [
+                    {
+                        "id": "v709o1kl5f0iav4qfuvx0oam",
+                        "productId": "ciinunlw0cop7mgteczm8w03",
+                        "image": "assets/2024/08/MainArtboard-3-2.jpg",
+                        "order": 0,
+                        "createdAt": "2024-11-01T01:31:02.343Z",
+                        "updatedAt": "2024-11-01T01:31:02.343Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    },
+                    {
+                        "id": "u389pq9cb4iqqo9jvjezuaze",
+                        "productId": "ciinunlw0cop7mgteczm8w03",
+                        "image": "assets/2024/08/MainArtboard-2-2.jpg",
+                        "order": 1,
+                        "createdAt": "2024-11-01T01:31:02.347Z",
+                        "updatedAt": "2024-11-01T01:31:02.347Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    }
+                ],
+                "reviews": [
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 4
+                    }
+                ],
+                "_count": {
+                    "lineItems": 0
+                },
+                "averageRating": 4.8,
+                "priceStart": 2870,
+                "priceEnd": null
+            },
+            {
+                "id": "d8bc24u0o0l92k4yeewzc391",
+                "title": "7-Day Skin Renewal Bakuchiol Trial Kit",
+                "subtitle": null,
+                "description": "Curious about the buzz surrounding bakuchiol, the gentle plant-based alternative to retinol?\r\n\r\nNow's your chance to experience its transformative effects without breaking the bank! Introducing Our Budget-Friendly Bakuchiol Sample Set. For just ₹499, you can embark on a week-long (7-day) journey to smoother, more radiant skin with our By Wishtrend Bakuchiol Vitamin A-mazing Night Cream sample set.\r\n\r\n<strong>⏰<span style=\"text-decoration: underline\">Limited Time Offer</span></strong><span style=\"text-decoration: underline\">:</span> Get your 7-day By Wishtrend Bakuchiol Cream sample set now and take the first step towards age-defying skin!\r\n<h3><span style=\"text-decoration: underline\">This trial kit includes</span></h3>\r\n<ul>\r\n \t<li><span style=\"text-decoration: underline\"><strong>7 pcs of By Wishtrend Vitamin A-mazing Bakuchiol Night Cream 1g</strong></span>: This gentle exfoliator works overtime to reduce fine lines and wrinkles, ensuring you wake up to skin that's smooth, soft, and youthful.</li>\r\n</ul>\r\n<h3><span style=\"text-decoration: underline\">HOW TO USE</span></h3>\r\n<ul>\r\n \t<li>In your final step of your <span style=\"text-decoration: underline\"><em>night-time skincare routine</em></span>, apply the <strong>By Wishtrend Vitamin A-mazing Bakuchiol Night Cream</strong> on your face. Massage gently and pat lightly for better absorption.</li>\r\n</ul>\r\n&nbsp;",
+                "handle": "7-day-skin-renewal-bakuchiol-trial-kit",
+                "weight": null,
+                "height": null,
+                "width": null,
+                "length": null,
+                "hs_code": null,
+                "origin_country": null,
+                "mid_code": null,
+                "material": null,
+                "metadata": {
+                    "excerpt": ""
+                },
+                "createdAt": "2024-10-25T01:44:00.000Z",
+                "updatedAt": "2024-11-30T05:18:30.842Z",
+                "tags": [],
+                "brandId": null,
+                "status": "ACTIVE",
+                "createdById": null,
+                "productCategoryId": null,
+                "thumbnail": "assets/2024/10/Artboard-4-1-1.png",
+                "productAttributeGroupId": "cm38juptd008ndxauq15ejjz1",
+                "metaTitle": null,
+                "metaDescription": null,
+                "brand": null,
+                "productCategory": null,
+                "productCollections": [],
+                "productValuesForAttribute": [
+                    {
+                        "id": "cm43q27cp005krypkiccmee8z",
+                        "productId": "d8bc24u0o0l92k4yeewzc391",
+                        "productAttributeId": "cm43p9mho002irypkkletlbtz",
+                        "productAttributeValueId": null,
+                        "value": null,
+                        "productAttribute": {
+                            "id": "cm43p9mho002irypkkletlbtz",
+                            "title": "Skin Concern",
+                            "type": "SELECT",
+                            "code": "SKIN_CON",
+                            "isRequired": false,
+                            "isUnique": false,
+                            "createdAt": "2024-11-30T04:56:17.437Z",
+                            "updatedAt": "2024-11-30T06:04:11.640Z",
+                            "deletedAt": null,
+                            "metadata": null,
+                            "createdById": "cm2xp9y9h0001lov6pl5y4nic"
+                        },
+                        "productAttributeValue": null
+                    },
+                    {
+                        "id": "cm43q27cp005lrypkwp02guxe",
+                        "productId": "d8bc24u0o0l92k4yeewzc391",
+                        "productAttributeId": "cm43pl4z7004crypk034hwa49",
+                        "productAttributeValueId": null,
+                        "value": null,
+                        "productAttribute": {
+                            "id": "cm43pl4z7004crypk034hwa49",
+                            "title": "Skin Type",
+                            "type": "SELECT",
+                            "code": "SKIN_TY",
+                            "isRequired": false,
+                            "isUnique": false,
+                            "createdAt": "2024-11-30T05:05:14.612Z",
+                            "updatedAt": "2024-11-30T06:09:23.323Z",
+                            "deletedAt": null,
+                            "metadata": null,
+                            "createdById": "cm2xp9y9h0001lov6pl5y4nic"
+                        },
+                        "productAttributeValue": null
+                    },
+                    {
+                        "id": "cm43q27cp005mrypkzbqquz08",
+                        "productId": "d8bc24u0o0l92k4yeewzc391",
+                        "productAttributeId": "cm43q0lsm0058rypknz8wzsvv",
+                        "productAttributeValueId": null,
+                        "value": null,
+                        "productAttribute": {
+                            "id": "cm43q0lsm0058rypknz8wzsvv",
+                            "title": "Routine",
+                            "type": "SELECT",
+                            "code": "ROUTINE",
+                            "isRequired": false,
+                            "isUnique": false,
+                            "createdAt": "2024-11-30T05:17:16.247Z",
+                            "updatedAt": "2024-12-02T06:30:20.077Z",
+                            "deletedAt": null,
+                            "metadata": null,
+                            "createdById": "cm2xp9y9h0001lov6pl5y4nic"
+                        },
+                        "productAttributeValue": null
+                    }
+                ],
+                "variants": [
+                    {
+                        "id": "bnxrxzk4jwkerzgtw44tz492",
+                        "productId": "d8bc24u0o0l92k4yeewzc391",
+                        "title": "Default",
+                        "sku": "1014048",
+                        "barcode": null,
+                        "ean": null,
+                        "upc": null,
+                        "inventoryQuantity": 0,
+                        "allowBackOrder": false,
+                        "manageInventory": true,
+                        "hsCode": null,
+                        "originCountry": null,
+                        "midCode": null,
+                        "material": null,
+                        "weight": null,
+                        "height": null,
+                        "length": null,
+                        "width": null,
+                        "variantRank": 11,
+                        "price": 700,
+                        "specialPrice": 499,
+                        "specialPriceStartDate": null,
+                        "specialPriceEndDate": null,
+                        "inventory": 0,
+                        "metadata": null,
+                        "createdAt": "2024-11-01T01:31:02.184Z",
+                        "deletedAt": null,
+                        "updatedAt": "2024-12-01T15:23:49.572Z",
+                        "thumbnail": "assets/2024/10/Artboard-4-1-1.png",
+                        "createdById": null,
+                        "prices": [],
+                        "originalPrice": 700,
+                        "currentPrice": 499,
+                        "salePrices": {}
+                    }
+                ],
+                "productImages": [],
+                "reviews": [
+                    {
+                        "rating": 4
+                    }
+                ],
+                "_count": {
+                    "lineItems": 24
+                },
+                "averageRating": 4,
+                "priceStart": 499,
+                "priceEnd": null
+            },
+            {
+                "id": "gxyig41itziwmix9gd1242l2",
+                "title": "COSRX 2-Step Dry Skin Relief Duo",
+                "subtitle": null,
+                "description": "<p data-sourcepos=\"5:1-5:183\"><strong>Is dry, flaky skin holding you back?</strong> Our 2-Step Dry Skin Relief Duo features a moisturizing cleanser/face wash and sunscreen that doubles as a moisturizer. This set is the ultimate solution for men seeking a simple yet effective skincare routine to combat dryness, flaky skin and irritation.</p>\r\n\r\n<h3 data-sourcepos=\"7:1-7:20\"><strong><span style=\"text-decoration: underline\">Skincare set includes:</span> </strong></h3>\r\n<ul data-sourcepos=\"9:1-11:0\">\r\n \t<li data-sourcepos=\"9:1-9:304\"><strong><span style=\"text-decoration: underline\">1 pc of </span><a href=\"https://beautybarn.in/product/cosrx-hydrium-triple-hylauronic-moisturizing-cleanser-150ml/\"><span style=\"text-decoration: underline\">COSRX Hydrium Triple Hyaluronic Moisturizing Cleanser 150ml</span></a>:</strong> This gentle, hydrating cleanser is formulated with three types of hyaluronic acid to deeply moisturize and soothe dry, parched skin. It removes impurities without stripping away essential moisture, leaving your skin feeling soft and refreshed.</li>\r\n \t<li data-sourcepos=\"10:1-11:0\"><strong><span style=\"text-decoration: underline\">1 pc of </span><a href=\"https://beautybarn.in/product/aloe-soothing-sun-cream-spf50-pa/\"><span style=\"text-decoration: underline\">COSRX Aloe Soothing Sun Cream SPF50+ 50ml</span></a>:</strong> This non-greasy and nourishing sunscreen provides broad-spectrum protection against harmful UV rays while providing intense hydration and soothing relief for dry, sensitive skin. Aloe vera extract helps to calm redness and irritation, leaving your skin feeling comfortable and protected.</li>\r\n</ul>\r\n<h3 data-sourcepos=\"12:1-12:17\"><span style=\"text-decoration: underline\"><strong>KEY BENEFITS:</strong></span></h3>\r\n<strong>✅Deeply hydrates:</strong> Replenishes moisture in dry, parched areas of skin, preventing flakiness and discomfort.\r\n\r\n<strong>✅Soothes irritation:</strong> Calms redness and inflammation, providing relief for dry, sensitive skin.\r\n\r\n<strong>✅Protects against sun damage:</strong> Shields the skin from harmful UV rays, preventing premature aging and <em>dark spots</em>.\r\n\r\n<strong>✅Non-greasy formula:</strong> Absorbs quickly without leaving a greasy residue, making it ideal for men who prefer a lightweight skincare routine.\r\n\r\n<strong>✅Gentle on sensitive skin:</strong> Suitable for those with dry, irritated skin, providing a gentle yet effective solution.\r\n<h3><span style=\"text-decoration: underline\"><strong>IDEAL FOR:</strong> </span></h3>\r\n<strong>✅</strong>Men seeking a simple, effective skincare routine to address dry, flaky skin. Our 2-Step Dry Skin Relief Duo provides the ultimate solution for healthy, hydrated skin.\r\n<h3 data-sourcepos=\"20:1-20:15\"><span style=\"text-decoration: underline\"><strong>HOW TO USE:</strong></span></h3>\r\n<ol data-sourcepos=\"22:1-24:0\">\r\n \t<li data-sourcepos=\"22:1-22:123\"><strong>Cleanse/Wash:</strong> Apply a small amount of the cleanser to your wet face and massage gently. Rinse thoroughly with warm water.</li>\r\n \t<li data-sourcepos=\"23:1-24:0\"><strong>Sun Protection:</strong> Apply a generous amount of sunscreen to your face and neck. Reapply every 2-3 hours, especially after sweating or swimming.</li>\r\n</ol>",
+                "handle": "cosrx-2-step-dry-skin-relief-duo",
+                "weight": null,
+                "height": null,
+                "width": null,
+                "length": null,
+                "hs_code": null,
+                "origin_country": null,
+                "mid_code": null,
+                "material": null,
+                "metadata": {
+                    "excerpt": ""
+                },
+                "createdAt": "2024-10-18T14:56:52.000Z",
+                "updatedAt": "2024-11-30T10:37:03.149Z",
+                "tags": [],
+                "brandId": "nbdho6wnnbd0v3dy7h36cgqa",
+                "status": "ACTIVE",
+                "createdById": null,
+                "productCategoryId": null,
+                "thumbnail": "assets/2024/10/Artboard-3-2.png",
+                "productAttributeGroupId": null,
+                "metaTitle": "",
+                "metaDescription": "",
+                "brand": {
+                    "id": "nbdho6wnnbd0v3dy7h36cgqa",
+                    "title": "Cosrx",
+                    "description": "With COS standing for cosmetics, and RX for prescriptions, COSRX has a very simple philosophy– simple ingredients that result in great formulas. K-beauty fans love their effective ingredients like snail mucin, yeast ferment, and skin-friendly exfoliants. Check out their bestsellers and new additions!",
+                    "handle": "cosrx",
+                    "image": "assets/2024/09/MainArtboard-2-31.jpg",
+                    "createdAt": "2024-11-01T01:30:47.220Z",
+                    "updatedAt": "2024-11-01T01:30:47.220Z",
+                    "deletedAt": null,
+                    "status": "ACTIVE",
+                    "metadata": null,
+                    "createdById": null
+                },
+                "productCategory": null,
+                "productCollections": [],
+                "productValuesForAttribute": [],
+                "variants": [
+                    {
+                        "id": "pcv258dd10e1skiwaqo8jxam",
+                        "productId": "gxyig41itziwmix9gd1242l2",
+                        "title": "Default",
+                        "sku": "1012270",
+                        "barcode": null,
+                        "ean": null,
+                        "upc": null,
+                        "inventoryQuantity": 28,
+                        "allowBackOrder": false,
+                        "manageInventory": true,
+                        "hsCode": null,
+                        "originCountry": null,
+                        "midCode": null,
+                        "material": null,
+                        "weight": null,
+                        "height": null,
+                        "length": null,
+                        "width": null,
+                        "variantRank": 40,
+                        "price": 2100,
+                        "specialPrice": 1575,
+                        "specialPriceStartDate": null,
+                        "specialPriceEndDate": null,
+                        "inventory": 0,
+                        "metadata": null,
+                        "createdAt": "2024-11-01T01:31:02.185Z",
+                        "deletedAt": null,
+                        "updatedAt": "2024-11-01T01:31:02.185Z",
+                        "thumbnail": "assets/2024/10/Artboard-3-2.png",
+                        "createdById": null,
+                        "prices": [],
+                        "originalPrice": 2100,
+                        "currentPrice": 1575,
+                        "salePrices": {}
+                    }
+                ],
+                "productImages": [
+                    {
+                        "id": "npwe7necxbiur61e2y5f5l9a",
+                        "productId": "gxyig41itziwmix9gd1242l2",
+                        "image": "assets/2024/10/Artboard-3-copy.png",
+                        "order": 0,
+                        "createdAt": "2024-11-01T01:31:02.233Z",
+                        "updatedAt": "2024-11-01T01:31:02.233Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    },
+                    {
+                        "id": "g0qvkjtc4vluwy39yjv48fvg",
+                        "productId": "gxyig41itziwmix9gd1242l2",
+                        "image": "assets/2024/10/Artboard-2-copy.png",
+                        "order": 1,
+                        "createdAt": "2024-11-01T01:31:02.247Z",
+                        "updatedAt": "2024-11-01T01:31:02.247Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    }
+                ],
+                "reviews": [],
+                "_count": {
+                    "lineItems": 2
+                },
+                "averageRating": null,
+                "priceStart": 1575,
+                "priceEnd": null
+            },
+            {
+                "id": "tmlap5yxdjp1i97vefh2wy9c",
+                "title": "BOJ Melasma  Dark Spots Duo",
+                "subtitle": null,
+                "description": "<strong>Save 25% OFF</strong> when you get the BOJ Fight Melasma &amp; Dark Spots Duo and achieve more luminous, radiant, and even-toned complexion\r\n\r\nThis powerful brightening duo combines <strong>Alpha Arbutin</strong> <strong>Serum</strong> and <strong>Niacinamide Serum</strong> to specifically target pigmentation, melasma, and dark spots.  Both ingredients work synergistically to fade hyperpigmentation, prevent future dark spots, and boost skin brightness without irritation.\r\n<h3><strong>Combined Benefits:</strong></h3>\r\n<ul>\r\n \t<li><strong>Powerful Brightening:</strong> Niacinamide and Alpha Arbutin work together to reduce pigmentation and even out skin tone.</li>\r\n \t<li><strong>Targeting Dark Spots:</strong> This duo is highly effective for diminishing dark spots, melasma, and post-acne marks.</li>\r\n \t<li><strong>Healthy Skin Barrier:</strong> While brightening, this combo also strengthens the skin barrier and reduces inflammation, making it suitable for daily use without irritation.</li>\r\n</ul>\r\nThis combination is perfect for achieving brighter, clearer, and more even-toned skin!",
+                "handle": "boj-fight-melasma-dark-spots-duo",
+                "weight": null,
+                "height": null,
+                "width": null,
+                "length": null,
+                "hs_code": null,
+                "origin_country": null,
+                "mid_code": null,
+                "material": null,
+                "metadata": {
+                    "excerpt": ""
+                },
+                "createdAt": "2024-10-15T13:38:21.000Z",
+                "updatedAt": "2024-11-01T01:31:02.127Z",
+                "tags": [],
+                "brandId": "b11l3swaghva63finaftcvpj",
+                "status": "ACTIVE",
+                "createdById": null,
+                "productCategoryId": null,
+                "thumbnail": "assets/2024/10/BOJ-1.jpg",
+                "productAttributeGroupId": null,
+                "metaTitle": null,
+                "metaDescription": null,
+                "brand": {
+                    "id": "b11l3swaghva63finaftcvpj",
+                    "title": "Beauty of Joseon",
+                    "description": "Discover Korean beauty brand Beauty of Joseon! Beauty of Joseon features traditional skincare secrets inspired by Joseon dynasty women, combined with a minimal, modern approach to create bestselling skincare products. All of Beauty of Joseon's products are cruelty-free and made with hanbang (Korean traditional medicine) ingredients such as Ginseng, Green Tea, Snail Mucin, Propolis, and Rice. Beauty of Joseon believes that these traditional ingredients are beneficial for healthy, glowing skin.",
+                    "handle": "beauty-of-joseon",
+                    "image": "assets/2022/06/Beauty-Of-Joseon-Brand-Image.jpg",
+                    "createdAt": "2024-11-01T01:30:47.227Z",
+                    "updatedAt": "2024-11-01T01:30:47.227Z",
+                    "deletedAt": null,
+                    "status": "ACTIVE",
+                    "metadata": null,
+                    "createdById": null
+                },
+                "productCategory": null,
+                "productCollections": [],
+                "productValuesForAttribute": [],
+                "variants": [
+                    {
+                        "id": "vzjstx461swh6nqheao0h702",
+                        "productId": "tmlap5yxdjp1i97vefh2wy9c",
+                        "title": "Default",
+                        "sku": "1001814",
+                        "barcode": null,
+                        "ean": null,
+                        "upc": null,
+                        "inventoryQuantity": 24,
+                        "allowBackOrder": false,
+                        "manageInventory": true,
+                        "hsCode": null,
+                        "originCountry": null,
+                        "midCode": null,
+                        "material": null,
+                        "weight": null,
+                        "height": null,
+                        "length": null,
+                        "width": null,
+                        "variantRank": 14,
+                        "price": 2800,
+                        "specialPrice": 2100,
+                        "specialPriceStartDate": null,
+                        "specialPriceEndDate": null,
+                        "inventory": 0,
+                        "metadata": null,
+                        "createdAt": "2024-11-01T01:31:02.184Z",
+                        "deletedAt": null,
+                        "updatedAt": "2024-11-01T01:31:02.184Z",
+                        "thumbnail": "assets/2024/10/BOJ-1.jpg",
+                        "createdById": null,
+                        "prices": [],
+                        "originalPrice": 2800,
+                        "currentPrice": 2100,
+                        "salePrices": {}
+                    }
+                ],
+                "productImages": [],
+                "reviews": [],
+                "_count": {
+                    "lineItems": 0
+                },
+                "averageRating": null,
+                "priceStart": 2100,
+                "priceEnd": null
+            },
+            {
+                "id": "nxy3e72nwvnzs7g6p5068x3b",
+                "title": "Dear Klairs Midnight Blue Calming Cream 3ml (1+1)",
+                "subtitle": null,
+                "description": "The Dear Klairs Midnight Blue Calming Cream is expertly crafted with a soothing blend of centella asiatica extract and guaiazulene to calm and alleviate irritated or inflamed skin. Ideal for all skin types, especially those prone to sensitivity or redness, this cream provides gentle yet effective relief while promoting skin healing and recovery.\r\n<h3><span style=\"text-decoration: underline\"><strong>Benefits</strong></span></h3>\r\n<ul>\r\n \t<li>Calms and soothes sensitive skin</li>\r\n \t<li>Reduce acne marks and blemishes</li>\r\n \t<li>Formulated to suit oily n acne-prone skin</li>\r\n</ul>\r\n<h3><span style=\"text-decoration: underline\"><strong>Key ingredients</strong></span></h3>\r\n<ul>\r\n \t<li>Guaiazulene</li>\r\n \t<li>Centella Asiatica Extract</li>\r\n \t<li>Ceramide NP</li>\r\n</ul>\r\n<h3><span style=\"text-decoration: underline\"><strong>Who can use this?</strong></span></h3>\r\n<ul>\r\n \t<li>All Skin Types</li>\r\n \t<li>Those with Sensitive Skin</li>\r\n \t<li>Anyone with Sunburns or Irritated Skin</li>\r\n \t<li>Individuals with Post-Procedure Skin</li>\r\n</ul>\r\n<strong>Expiry: </strong>2026-05-16\r\n<h3><span style=\"text-decoration: underline\">Additional product information</span></h3>\r\nCountry of Origin: South Korea\r\nManufacturer: Enbioscience\r\nAddress: M/s. Enbioscience Co., ltd, 33, Dodam 4- ro, Seo-gu, Incheon, Republic of Korea-South Korea\r\nImporter: Beauty Barn\r\nAddress:  983/18, Tajen Ao Road,\r\nDimapur – 797112, Nagaland, India\r\nPacker: M/s. Enbioscience Co., ltd, 33, Dodam 4- ro, Seo-gu, Incheon, Republic of Korea-South Korea",
+                "handle": "dear-klairs-midnight-blue-calming-cream-3-ml-x-2-nos",
+                "weight": null,
+                "height": null,
+                "width": null,
+                "length": null,
+                "hs_code": null,
+                "origin_country": null,
+                "mid_code": null,
+                "material": null,
+                "metadata": {
+                    "excerpt": ""
+                },
+                "createdAt": "2024-09-26T23:59:40.000Z",
+                "updatedAt": "2024-11-01T01:31:02.129Z",
+                "tags": [],
+                "brandId": "r4argx6qemat6zbn6plq66q7",
+                "status": "ACTIVE",
+                "createdById": null,
+                "productCategoryId": null,
+                "thumbnail": "assets/2023/11/Klairs-Calming-Cream-Sachet.jpg",
+                "productAttributeGroupId": null,
+                "metaTitle": null,
+                "metaDescription": null,
+                "brand": {
+                    "id": "r4argx6qemat6zbn6plq66q7",
+                    "title": "Dear Klairs",
+                    "description": "While embracing the philosophy \"Simple is Enough\", Klairs focuses on developing functional products meant for sensitive skin. Their comprehensive product range provides all the essentials for skin care and protection. The brand offers effective solutions for various concerns, all while maintaining a commitment to being gentle, vegan friendly, and cruelty-free. Additionally, their products are also eco-friendly and ethically conscious.",
+                    "handle": "dear-klairs",
+                    "image": "assets/2023/11/Dear-Klairs-Banner-Brand-Story.jpg",
+                    "createdAt": "2024-11-01T01:30:47.226Z",
+                    "updatedAt": "2024-11-01T01:30:47.226Z",
+                    "deletedAt": null,
+                    "status": "ACTIVE",
+                    "metadata": null,
+                    "createdById": null
+                },
+                "productCategory": null,
+                "productCollections": [],
+                "productValuesForAttribute": [],
+                "variants": [
+                    {
+                        "id": "gw6gzhr3q0vb56sftxm1t0ly",
+                        "productId": "nxy3e72nwvnzs7g6p5068x3b",
+                        "title": "Default",
+                        "sku": "766834",
+                        "barcode": null,
+                        "ean": null,
+                        "upc": null,
+                        "inventoryQuantity": 99,
+                        "allowBackOrder": false,
+                        "manageInventory": true,
+                        "hsCode": null,
+                        "originCountry": null,
+                        "midCode": null,
+                        "material": null,
+                        "weight": null,
+                        "height": null,
+                        "length": null,
+                        "width": null,
+                        "variantRank": 28,
+                        "price": 300,
+                        "specialPrice": 99,
+                        "specialPriceStartDate": null,
+                        "specialPriceEndDate": null,
+                        "inventory": 0,
+                        "metadata": null,
+                        "createdAt": "2024-11-01T01:31:02.185Z",
+                        "deletedAt": null,
+                        "updatedAt": "2024-11-01T01:31:02.185Z",
+                        "thumbnail": "assets/2023/11/Klairs-Calming-Cream-Sachet.jpg",
+                        "createdById": null,
+                        "prices": [],
+                        "originalPrice": 300,
+                        "currentPrice": 99,
+                        "salePrices": {}
+                    }
+                ],
+                "productImages": [],
+                "reviews": [],
+                "_count": {
+                    "lineItems": 0
+                },
+                "averageRating": null,
+                "priceStart": 99,
+                "priceEnd": null
+            },
+            {
+                "id": "ltts2kbe9quhq99tzjdlmtmw",
+                "title": "BOJ  Anti-Aging, Melasma &amp; Dark Spot Correcting Bundle",
+                "subtitle": null,
+                "description": "<strong>SAVE FLAT 30 % OFF + Get a Limited-Edition Beauty Barn Luxury Gift Box!  </strong>\r\n\r\nExperience the ultimate glow with our best-selling skincare ritual! Perfect for achieving a radiant, youthful complexion, this routine is the go-to for both pre-bridal glow-ups and festive season prep.\r\n\r\nFeaturing the powerful <strong>Ginseng Essence</strong>, brightening <strong>Glow Serum</strong>, rejuvenating <strong>Revive Serum</strong>, revitalizing <strong>Revive Eye Serum</strong>, and the nourishing <strong>Dynasty Cream</strong>, this complete set is designed to hydrate, firm, and illuminate your skin with the timeless wisdom of <strong>Hanbang</strong> ingredients. Perfect for achieving that dewy, glass skin look with deep nourishment and anti-aging benefits.\r\n\r\nThis ritual covers anti-aging, brightening, hydration, and skin repair concerns.\r\n<ol>\r\n \t<li><strong>Ginseng Essence</strong>:\r\nTargets <strong>fine lines</strong>, <strong>wrinkles</strong>, and <strong>loss of elasticity</strong>, while deeply hydrating and improving overall skin vitality.</li>\r\n \t<li><strong>Glow Serum (Propolis + Niacinamide)</strong>:\r\nFocuses on <strong>brightening</strong> dull skin, fading <strong>dark spots</strong>, and evening out <strong>uneven skin tone</strong>.</li>\r\n \t<li><strong>Revive Serum (Ginseng + Snail Mucin)</strong>:\r\nTargets <strong>fine lines</strong>, <strong>wrinkles</strong>, and <strong>skin repair</strong>, helping to boost skin elasticity and restore a youthful glow.</li>\r\n \t<li><strong>Revive Eye Serum</strong>:\r\nDesigned to reduce the appearance of <strong>dark circles</strong>, <strong>fine lines</strong>, and <strong>puffiness</strong>, while firming the delicate under-eye area.</li>\r\n \t<li><strong>Dynasty Cream</strong>:\r\nProvides deep hydration for <strong>dull</strong>, <strong>dehydrated skin</strong>, while improving <strong>skin texture</strong>, <strong>firmness</strong>, and boosting <strong>radiance</strong>.Don’t miss out on this exclusive deal—try it today or make someone’s day and gift the Hanbang Glow Ritual!</li>\r\n</ol>",
+                "handle": "boj-anti-aging-melasma-dark-spot-correcting-bundle",
+                "weight": null,
+                "height": null,
+                "width": null,
+                "length": null,
+                "hs_code": null,
+                "origin_country": null,
+                "mid_code": null,
+                "material": null,
+                "metadata": {
+                    "excerpt": ""
+                },
+                "createdAt": "2024-10-14T11:52:45.000Z",
+                "updatedAt": "2024-11-01T01:31:02.151Z",
+                "tags": [],
+                "brandId": "b11l3swaghva63finaftcvpj",
+                "status": "ACTIVE",
+                "createdById": null,
+                "productCategoryId": null,
+                "thumbnail": "assets/2024/10/BoJ-Bundle-1.jpg",
+                "productAttributeGroupId": null,
+                "metaTitle": null,
+                "metaDescription": null,
+                "brand": {
+                    "id": "b11l3swaghva63finaftcvpj",
+                    "title": "Beauty of Joseon",
+                    "description": "Discover Korean beauty brand Beauty of Joseon! Beauty of Joseon features traditional skincare secrets inspired by Joseon dynasty women, combined with a minimal, modern approach to create bestselling skincare products. All of Beauty of Joseon's products are cruelty-free and made with hanbang (Korean traditional medicine) ingredients such as Ginseng, Green Tea, Snail Mucin, Propolis, and Rice. Beauty of Joseon believes that these traditional ingredients are beneficial for healthy, glowing skin.",
+                    "handle": "beauty-of-joseon",
+                    "image": "assets/2022/06/Beauty-Of-Joseon-Brand-Image.jpg",
+                    "createdAt": "2024-11-01T01:30:47.227Z",
+                    "updatedAt": "2024-11-01T01:30:47.227Z",
+                    "deletedAt": null,
+                    "status": "ACTIVE",
+                    "metadata": null,
+                    "createdById": null
+                },
+                "productCategory": null,
+                "productCollections": [],
+                "productValuesForAttribute": [],
+                "variants": [
+                    {
+                        "id": "pgwyp04eycj4ennhslmw6tst",
+                        "productId": "ltts2kbe9quhq99tzjdlmtmw",
+                        "title": "Default",
+                        "sku": "1003602",
+                        "barcode": null,
+                        "ean": null,
+                        "upc": null,
+                        "inventoryQuantity": 27,
+                        "allowBackOrder": false,
+                        "manageInventory": true,
+                        "hsCode": null,
+                        "originCountry": null,
+                        "midCode": null,
+                        "material": null,
+                        "weight": null,
+                        "height": null,
+                        "length": null,
+                        "width": null,
+                        "variantRank": 33,
+                        "price": 7720,
+                        "specialPrice": 5400,
+                        "specialPriceStartDate": null,
+                        "specialPriceEndDate": null,
+                        "inventory": 0,
+                        "metadata": null,
+                        "createdAt": "2024-11-01T01:31:02.185Z",
+                        "deletedAt": null,
+                        "updatedAt": "2024-12-01T18:57:02.417Z",
+                        "thumbnail": "assets/2024/10/BoJ-Bundle-1.jpg",
+                        "createdById": null,
+                        "prices": [],
+                        "originalPrice": 7720,
+                        "currentPrice": 5400,
+                        "salePrices": {}
+                    }
+                ],
+                "productImages": [
+                    {
+                        "id": "ft8rezf32nfw9jd5buhxcoen",
+                        "productId": "ltts2kbe9quhq99tzjdlmtmw",
+                        "image": "assets/2024/10/Artboard-1.gif",
+                        "order": 0,
+                        "createdAt": "2024-11-01T01:31:02.231Z",
+                        "updatedAt": "2024-11-01T01:31:02.231Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    },
+                    {
+                        "id": "uqv914ickgvb7udgseohdzc9",
+                        "productId": "ltts2kbe9quhq99tzjdlmtmw",
+                        "image": "assets/2024/10/Artboard-2.jpg",
+                        "order": 1,
+                        "createdAt": "2024-11-01T01:31:02.245Z",
+                        "updatedAt": "2024-11-01T01:31:02.245Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    }
+                ],
+                "reviews": [],
+                "_count": {
+                    "lineItems": 2
+                },
+                "averageRating": null,
+                "priceStart": 5400,
+                "priceEnd": null
+            },
+            {
+                "id": "tl4u3288buklfwf5fy11nvql",
+                "title": "BRIDAL GLOW PACKAGE FOR OILY SKIN",
+                "subtitle": null,
+                "description": "",
+                "handle": "bridal-package-for-oily-skin",
+                "weight": null,
+                "height": null,
+                "width": null,
+                "length": null,
+                "hs_code": null,
+                "origin_country": null,
+                "mid_code": null,
+                "material": null,
+                "metadata": {
+                    "excerpt": ""
+                },
+                "createdAt": "2024-10-05T16:29:29.000Z",
+                "updatedAt": "2024-11-01T01:31:02.128Z",
+                "tags": [],
+                "brandId": "nbdho6wnnbd0v3dy7h36cgqa",
+                "status": "ACTIVE",
+                "createdById": null,
+                "productCategoryId": null,
+                "thumbnail": "assets/2024/10/MainArtboard-2.png",
+                "productAttributeGroupId": null,
+                "metaTitle": null,
+                "metaDescription": null,
+                "brand": {
+                    "id": "nbdho6wnnbd0v3dy7h36cgqa",
+                    "title": "Cosrx",
+                    "description": "With COS standing for cosmetics, and RX for prescriptions, COSRX has a very simple philosophy– simple ingredients that result in great formulas. K-beauty fans love their effective ingredients like snail mucin, yeast ferment, and skin-friendly exfoliants. Check out their bestsellers and new additions!",
+                    "handle": "cosrx",
+                    "image": "assets/2024/09/MainArtboard-2-31.jpg",
+                    "createdAt": "2024-11-01T01:30:47.220Z",
+                    "updatedAt": "2024-11-01T01:30:47.220Z",
+                    "deletedAt": null,
+                    "status": "ACTIVE",
+                    "metadata": null,
+                    "createdById": null
+                },
+                "productCategory": null,
+                "productCollections": [],
+                "productValuesForAttribute": [],
+                "variants": [
+                    {
+                        "id": "xmt7xv6t5fqj5cfr1dlw6mya",
+                        "productId": "tl4u3288buklfwf5fy11nvql",
+                        "title": "Default",
+                        "sku": "999500",
+                        "barcode": null,
+                        "ean": null,
+                        "upc": null,
+                        "inventoryQuantity": 46,
+                        "allowBackOrder": false,
+                        "manageInventory": true,
+                        "hsCode": null,
+                        "originCountry": null,
+                        "midCode": null,
+                        "material": null,
+                        "weight": null,
+                        "height": null,
+                        "length": null,
+                        "width": null,
+                        "variantRank": 19,
+                        "price": 12800,
+                        "specialPrice": 6400,
+                        "specialPriceStartDate": null,
+                        "specialPriceEndDate": null,
+                        "inventory": 0,
+                        "metadata": null,
+                        "createdAt": "2024-11-01T01:31:02.184Z",
+                        "deletedAt": null,
+                        "updatedAt": "2024-11-01T01:31:02.184Z",
+                        "thumbnail": "assets/2024/10/MainArtboard-2.png",
+                        "createdById": null,
+                        "prices": [],
+                        "originalPrice": 12800,
+                        "currentPrice": 6400,
+                        "salePrices": {}
+                    }
+                ],
+                "productImages": [],
+                "reviews": [],
+                "_count": {
+                    "lineItems": 1
+                },
+                "averageRating": null,
+                "priceStart": 6400,
+                "priceEnd": null
+            },
+            {
+                "id": "g2pj4w78h713w20giphv7grd",
+                "title": "COSRX The Vitamin C 23 Serum 20ml",
+                "subtitle": null,
+                "description": "<strong>Hypoallergenic 23% pure vitamin C - </strong>Highly concentrated serum that fades acne scars and brightens the complexion to revitalize dull and dry skin.\r\n\r\n<u>BENEFITS</u>\r\n\r\n• Fades acne scars and hyperpigmentation\r\n• Brightens dull skin\r\n• Firms and plumps\r\n• Diminishes fine lines and wrinkles\r\n• Antioxidant · Protects from environmental damage\r\n\r\n&nbsp;\r\n\r\n<u>TARGETS</u>\r\n\r\n* Acne scars\r\n• Worried about hyperpigmentation caused by UV rays\r\n• Want to brighten their dull complexion\r\n• Uneven skin tone\r\n• Concerned about early signs of aging\r\n\r\n<strong>How To Use:</strong> After cleansing, during the serum step, shake the bottle lightly once or twice from side to side and apply a few drops to the skin. Use fingertips to gently massage and absorb the serum, starting from the inside of the face working towards the edges. <strong>Do not use it in the same routine as your exfoliators and retinols. </strong>\r\n\r\n<strong>Expiry:24.04.2026</strong>\r\n\r\n<span style=\"font-size: 14pt\"><em>Precautions for storing and handling high-content</em></span>\r\n<span style=\"font-size: 14pt\"><em>Vitamin C products</em></span>\r\n<ol>\r\n \t<li><strong>Gas can be generated due to the nature of vitamin C.</strong></li>\r\n \t<li><strong>When opening the cap, it may make a sound.</strong></li>\r\n \t<li>With a specially designed cap to seal vitamin C, it can be safely stored\r\nby controlling the gas generated inside the container.</li>\r\n \t<li>If you shake it before opening, it may overflow,\r\nso shake lightly, from left to right after fastening the pipette.</li>\r\n \t<li>Extra room in the container has been secured for safe use.</li>\r\n \t<li><strong>Vitamin C products are recommended to be used within 2 months</strong>\r\n<strong>of opening due to easy discoloration caused by oxidation</strong>.</li>\r\n \t<li>Keep it away from high temperatures and direct sunlight.</li>\r\n \t<li>It is recommended to be stored in the refrigerator\r\nwhen it is not being used every day after fastening the pipette.</li>\r\n \t<li>Keeping it refrigerated can help maintain the freshness of the vitamin C.\r\nO KEEP REFRIGERATED (3~10°C) *</li>\r\n</ol>\r\n<em><strong>* Please use immediately after purchase and store upright in refrigerator</strong></em>\r\n<em><strong>once opened.</strong></em>\r\n\r\n<strong><em>*We do not exchange vitamin C serums. We restock our vitamin C monthly and store it in cool temperature until it’s shipped out to you to avoid oxidation. However pure vitamin C has a tendency to leak in hot weather during transit which is beyond our control. Hence pure vitamin C is only product that we do not offer exchange.</em></strong>\r\n\r\n&nbsp;\r\n\r\n<strong>Country of Origin:</strong> South Korea\r\n\r\n<strong>Manufacturer:</strong> Amore Pacific Co., Ltd.\r\n\r\n<strong>Address:</strong> 37, Gajisanseopdong-ro, Osan-si, Gyeonggi-do, South Korea\r\n\r\n<strong>Importer:</strong> Beauty Barn\r\n\r\n<strong>Address:</strong> 983/18, Tajen Ao Road, Dimapur – 797112, Nagaland, India\r\n\r\n<strong>Packer:</strong> Amore Pacific Co., Ltd.\r\n\r\n<strong>Address:</strong> 37, Gajisanseopdong-ro, Osan-si, Gyeonggi-do, South Korea",
+                "handle": "cosrx-the-vitamin-c-23-serum-20ml",
+                "weight": null,
+                "height": null,
+                "width": null,
+                "length": null,
+                "hs_code": null,
+                "origin_country": null,
+                "mid_code": null,
+                "material": null,
+                "metadata": {
+                    "excerpt": ""
+                },
+                "createdAt": "2022-09-12T16:14:16.000Z",
+                "updatedAt": "2024-11-30T09:46:21.974Z",
+                "tags": [],
+                "brandId": "nbdho6wnnbd0v3dy7h36cgqa",
+                "status": "ACTIVE",
+                "createdById": null,
+                "productCategoryId": null,
+                "thumbnail": "assets/2022/09/Cosrx-Vitamin-23-Serum.jpg",
+                "productAttributeGroupId": "cm38juptd008ndxauq15ejjz1",
+                "metaTitle": null,
+                "metaDescription": null,
+                "brand": {
+                    "id": "nbdho6wnnbd0v3dy7h36cgqa",
+                    "title": "Cosrx",
+                    "description": "With COS standing for cosmetics, and RX for prescriptions, COSRX has a very simple philosophy– simple ingredients that result in great formulas. K-beauty fans love their effective ingredients like snail mucin, yeast ferment, and skin-friendly exfoliants. Check out their bestsellers and new additions!",
+                    "handle": "cosrx",
+                    "image": "assets/2024/09/MainArtboard-2-31.jpg",
+                    "createdAt": "2024-11-01T01:30:47.220Z",
+                    "updatedAt": "2024-11-01T01:30:47.220Z",
+                    "deletedAt": null,
+                    "status": "ACTIVE",
+                    "metadata": null,
+                    "createdById": null
+                },
+                "productCategory": null,
+                "productCollections": [],
+                "productValuesForAttribute": [
+                    {
+                        "id": "cm43zmnx201l2rypkq96mhz6o",
+                        "productId": "g2pj4w78h713w20giphv7grd",
+                        "productAttributeId": "cm43pl4z7004crypk034hwa49",
+                        "productAttributeValueId": "cm43rvmnv009drypkfh47pvg7",
+                        "value": null,
+                        "productAttribute": {
+                            "id": "cm43pl4z7004crypk034hwa49",
+                            "title": "Skin Type",
+                            "type": "SELECT",
+                            "code": "SKIN_TY",
+                            "isRequired": false,
+                            "isUnique": false,
+                            "createdAt": "2024-11-30T05:05:14.612Z",
+                            "updatedAt": "2024-11-30T06:09:23.323Z",
+                            "deletedAt": null,
+                            "metadata": null,
+                            "createdById": "cm2xp9y9h0001lov6pl5y4nic"
+                        },
+                        "productAttributeValue": {
+                            "id": "cm43rvmnv009drypkfh47pvg7",
+                            "productAttributeId": "cm43pl4z7004crypk034hwa49",
+                            "value": "Oily",
+                            "position": 0,
+                            "createdAt": "2024-11-30T06:09:23.323Z",
+                            "updatedAt": "2024-11-30T06:09:23.323Z",
+                            "deletedAt": null,
+                            "metadata": null
+                        }
+                    },
+                    {
+                        "id": "cm43zmnx201l1rypkpwl33dm7",
+                        "productId": "g2pj4w78h713w20giphv7grd",
+                        "productAttributeId": "cm43p9mho002irypkkletlbtz",
+                        "productAttributeValueId": "cm43roy60007brypk36ebefyt",
+                        "value": null,
+                        "productAttribute": {
+                            "id": "cm43p9mho002irypkkletlbtz",
+                            "title": "Skin Concern",
+                            "type": "SELECT",
+                            "code": "SKIN_CON",
+                            "isRequired": false,
+                            "isUnique": false,
+                            "createdAt": "2024-11-30T04:56:17.437Z",
+                            "updatedAt": "2024-11-30T06:04:11.640Z",
+                            "deletedAt": null,
+                            "metadata": null,
+                            "createdById": "cm2xp9y9h0001lov6pl5y4nic"
+                        },
+                        "productAttributeValue": {
+                            "id": "cm43roy60007brypk36ebefyt",
+                            "productAttributeId": "cm43p9mho002irypkkletlbtz",
+                            "value": "Pigmentation Skin Care Products",
+                            "position": 5,
+                            "createdAt": "2024-11-30T06:04:11.640Z",
+                            "updatedAt": "2024-11-30T06:04:11.640Z",
+                            "deletedAt": null,
+                            "metadata": null
+                        }
+                    },
+                    {
+                        "id": "cm43zmnx201l3rypku6wo8pu1",
+                        "productId": "g2pj4w78h713w20giphv7grd",
+                        "productAttributeId": "cm43q0lsm0058rypknz8wzsvv",
+                        "productAttributeValueId": null,
+                        "value": null,
+                        "productAttribute": {
+                            "id": "cm43q0lsm0058rypknz8wzsvv",
+                            "title": "Routine",
+                            "type": "SELECT",
+                            "code": "ROUTINE",
+                            "isRequired": false,
+                            "isUnique": false,
+                            "createdAt": "2024-11-30T05:17:16.247Z",
+                            "updatedAt": "2024-12-02T06:30:20.077Z",
+                            "deletedAt": null,
+                            "metadata": null,
+                            "createdById": "cm2xp9y9h0001lov6pl5y4nic"
+                        },
+                        "productAttributeValue": null
+                    }
+                ],
+                "variants": [
+                    {
+                        "id": "qxvdg2if0fecvr7ap50anpni",
+                        "productId": "g2pj4w78h713w20giphv7grd",
+                        "title": "Default",
+                        "sku": "496555",
+                        "barcode": null,
+                        "ean": null,
+                        "upc": null,
+                        "inventoryQuantity": 79,
+                        "allowBackOrder": false,
+                        "manageInventory": true,
+                        "hsCode": null,
+                        "originCountry": null,
+                        "midCode": null,
+                        "material": null,
+                        "weight": null,
+                        "height": null,
+                        "length": null,
+                        "width": null,
+                        "variantRank": 455,
+                        "price": 1850,
+                        "specialPrice": 1389,
+                        "specialPriceStartDate": null,
+                        "specialPriceEndDate": null,
+                        "inventory": 0,
+                        "metadata": null,
+                        "createdAt": "2024-11-01T01:31:03.113Z",
+                        "deletedAt": null,
+                        "updatedAt": "2024-11-01T01:31:03.113Z",
+                        "thumbnail": "assets/2022/09/Cosrx-Vitamin-23-Serum.jpg",
+                        "createdById": null,
+                        "prices": [],
+                        "originalPrice": 1850,
+                        "currentPrice": 1389,
+                        "salePrices": {}
+                    }
+                ],
+                "productImages": [
+                    {
+                        "id": "a3z7zdk7v7p9pc2kmxdi6v2n",
+                        "productId": "g2pj4w78h713w20giphv7grd",
+                        "image": "assets/2022/09/The_VitaminC23_8_720x.webp",
+                        "order": 5,
+                        "createdAt": "2024-11-01T01:31:03.186Z",
+                        "updatedAt": "2024-11-01T01:31:03.186Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    },
+                    {
+                        "id": "bf7yzapgik7kmzrfojk711f6",
+                        "productId": "g2pj4w78h713w20giphv7grd",
+                        "image": "assets/2022/09/The_VitaminC23_5_3_720x.webp",
+                        "order": 3,
+                        "createdAt": "2024-11-01T01:31:03.174Z",
+                        "updatedAt": "2024-11-01T01:31:03.174Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    },
+                    {
+                        "id": "qjy5kwt33gkuqltmepl1y993",
+                        "productId": "g2pj4w78h713w20giphv7grd",
+                        "image": "assets/2022/09/The_VitaminC23_3_720x.webp",
+                        "order": 2,
+                        "createdAt": "2024-11-01T01:31:03.160Z",
+                        "updatedAt": "2024-11-01T01:31:03.160Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    },
+                    {
+                        "id": "a0yu98oi7cy2w0zokmzwtcfk",
+                        "productId": "g2pj4w78h713w20giphv7grd",
+                        "image": "assets/2022/09/Image1.jpg",
+                        "order": 0,
+                        "createdAt": "2024-11-01T01:31:03.116Z",
+                        "updatedAt": "2024-11-01T01:31:03.116Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    },
+                    {
+                        "id": "zfpedcq633mibdoiin9mnqoj",
+                        "productId": "g2pj4w78h713w20giphv7grd",
+                        "image": "assets/2018/06/LOA.jpg",
+                        "order": 7,
+                        "createdAt": "2024-11-01T01:31:03.196Z",
+                        "updatedAt": "2024-11-01T01:31:03.196Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    },
+                    {
+                        "id": "exmnyes5mbo7xrx7qsw5vxyc",
+                        "productId": "g2pj4w78h713w20giphv7grd",
+                        "image": "assets/2022/09/The_VitaminC23_2_720x.webp",
+                        "order": 1,
+                        "createdAt": "2024-11-01T01:31:03.121Z",
+                        "updatedAt": "2024-11-01T01:31:03.121Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    },
+                    {
+                        "id": "gk21eh37ou8ey2rywhrj3ykq",
+                        "productId": "g2pj4w78h713w20giphv7grd",
+                        "image": "assets/2022/09/The_VitaminC23_9_720x.webp",
+                        "order": 6,
+                        "createdAt": "2024-11-01T01:31:03.194Z",
+                        "updatedAt": "2024-11-01T01:31:03.194Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    },
+                    {
+                        "id": "gzk1n8m9x75is5v1oqyplgeu",
+                        "productId": "g2pj4w78h713w20giphv7grd",
+                        "image": "assets/2022/09/The_VitaminC23_7_720x.webp",
+                        "order": 4,
+                        "createdAt": "2024-11-01T01:31:03.180Z",
+                        "updatedAt": "2024-11-01T01:31:03.180Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    }
+                ],
+                "reviews": [
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    }
+                ],
+                "_count": {
+                    "lineItems": 3
+                },
+                "averageRating": 5,
+                "priceStart": 1389,
+                "priceEnd": null
+            },
+            {
+                "id": "qe39y4a6b95fs44r2w3xceyt",
+                "title": "VT Cosmetics Reedle Shot 100 Essence 50ml",
+                "subtitle": null,
+                "description": "<div class=\"flex max-w-full flex-col flex-grow\">\r\n<div class=\"min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words [.text-message+&amp;]:mt-5\" dir=\"auto\" data-message-author-role=\"assistant\" data-message-id=\"bff8fd7c-38ed-4fcf-afb3-597c070a52ea\">\r\n<div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[3px]\">\r\n<div class=\"markdown prose w-full break-words dark:prose-invert light\">\r\n\r\nVT Reedle Shot 100 Essence is a powerful skin-repairing essence that uses micro-needle technology to help rejuvenate and smooth your skin. It penetrates deep into the skin to target fine lines, dullness, and uneven texture. Infused with Centella Asiatica, it calms and soothes irritated skin while boosting hydration. Perfect for those who want smoother, firmer, and more youthful-looking skin.\r\n\r\nKey Benefits:\r\n<ul>\r\n \t<li>Smooths fine lines and wrinkles</li>\r\n \t<li>Boosts skin's moisture levels</li>\r\n \t<li>Calms irritated and sensitive skin</li>\r\n</ul>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"mb-2 flex gap-3 empty:hidden -ml-2\">\r\n<div class=\"items-center justify-start rounded-xl p-1 flex\">\r\n<div class=\"flex items-center\">\r\n<div class=\"flex items-center pb-0\">Expiry: 2027/03/03</div>\r\n</div>\r\n</div>\r\n</div>",
+                "handle": "vt-cosmetics-reedle-shot-100-essence-50ml",
+                "weight": null,
+                "height": null,
+                "width": null,
+                "length": null,
+                "hs_code": null,
+                "origin_country": null,
+                "mid_code": null,
+                "material": null,
+                "metadata": {
+                    "excerpt": ""
+                },
+                "createdAt": "2024-10-05T17:09:54.000Z",
+                "updatedAt": "2024-11-01T01:31:02.153Z",
+                "tags": [],
+                "brandId": "qdg2rbgxhvcd7zvsnsy9225c",
+                "status": "ACTIVE",
+                "createdById": null,
+                "productCategoryId": null,
+                "thumbnail": "assets/2024/10/MainArtboard-1-2.jpg",
+                "productAttributeGroupId": null,
+                "metaTitle": null,
+                "metaDescription": null,
+                "brand": {
+                    "id": "qdg2rbgxhvcd7zvsnsy9225c",
+                    "title": "VT Cosmetics",
+                    "description": "VT Cosmetics is a global concept brand that incorporates natural ingredients with beauty scientific technology to invent, interpret, and lead the current trends in K-beauty. Where they go by three fundamental mottos which are Skin Science Technology, Sensational Color, and Stylish Design.",
+                    "handle": "vt-cosmetics",
+                    "image": "assets/2024/11/pxfqqzppokj",
+                    "createdAt": "2024-11-01T01:30:47.229Z",
+                    "updatedAt": "2024-11-30T10:47:34.547Z",
+                    "deletedAt": null,
+                    "status": "ACTIVE",
+                    "metadata": null,
+                    "createdById": null
+                },
+                "productCategory": null,
+                "productCollections": [],
+                "productValuesForAttribute": [],
+                "variants": [
+                    {
+                        "id": "nvvnnyjkvd8o6tfd6l5167t4",
+                        "productId": "qe39y4a6b95fs44r2w3xceyt",
+                        "title": "Default",
+                        "sku": "1004795",
+                        "barcode": null,
+                        "ean": null,
+                        "upc": null,
+                        "inventoryQuantity": 57,
+                        "allowBackOrder": false,
+                        "manageInventory": true,
+                        "hsCode": null,
+                        "originCountry": null,
+                        "midCode": null,
+                        "material": null,
+                        "weight": null,
+                        "height": null,
+                        "length": null,
+                        "width": null,
+                        "variantRank": 32,
+                        "price": 2999,
+                        "specialPrice": 2400,
+                        "specialPriceStartDate": null,
+                        "specialPriceEndDate": null,
+                        "inventory": 0,
+                        "metadata": null,
+                        "createdAt": "2024-11-01T01:31:02.185Z",
+                        "deletedAt": null,
+                        "updatedAt": "2024-11-01T01:31:02.185Z",
+                        "thumbnail": "assets/2024/10/MainArtboard-1-2.jpg",
+                        "createdById": null,
+                        "prices": [],
+                        "originalPrice": 2999,
+                        "currentPrice": 2400,
+                        "salePrices": {}
+                    }
+                ],
+                "productImages": [
+                    {
+                        "id": "hodqqo3ihsdjsplspmr5374o",
+                        "productId": "qe39y4a6b95fs44r2w3xceyt",
+                        "image": "assets/2024/10/MainArtboard-3-2.jpg",
+                        "order": 0,
+                        "createdAt": "2024-11-01T01:31:02.231Z",
+                        "updatedAt": "2024-11-01T01:31:02.231Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    },
+                    {
+                        "id": "mo2e52mz9lu29ps5hem75h4j",
+                        "productId": "qe39y4a6b95fs44r2w3xceyt",
+                        "image": "assets/2024/10/MainArtboard-2-2.jpg",
+                        "order": 1,
+                        "createdAt": "2024-11-01T01:31:02.246Z",
+                        "updatedAt": "2024-11-01T01:31:02.246Z",
+                        "createdById": null,
+                        "productVariantId": null
+                    }
+                ],
+                "reviews": [],
+                "_count": {
+                    "lineItems": 0
+                },
+                "averageRating": null,
+                "priceStart": 2400,
+                "priceEnd": null
+            },
+            {
+                "id": "y9v7v2tr4wtlwsd3yh2c44si",
+                "title": "COSRX AHA BHA VITAMIN C super saver DUO",
+                "subtitle": null,
+                "description": "For TEENS, Beginners, sensitive skin and if you are scared of potent products to get rid of ACNE, CLOGGED PORES, DULL COMPLEXION, Excessive oil production and ROUGH skin texture.\r\n\r\n&nbsp;\r\n\r\nProduct list\r\n<ul>\r\n \t<li class=\"product_title entry-title elementor-heading-title elementor-size-default\"><a href=\"https://beautybarn.in/product/cosrx-refresh-aha-bha-vitamin-c-daily-cream-50ml/\">COSRX Refresh AHA/BHA Vitamin C Daily Cream 50ml</a></li>\r\n \t<li class=\"product_title entry-title elementor-heading-title elementor-size-default\"><a href=\"https://beautybarn.in/product/cosrx-refresh-aha-bha-vitamin-c-booster-serum-30ml/\">COSRX Refresh AHA/BHA Vitamin C Booster Serum 30ml</a></li>\r\n</ul>",
+                "handle": "cosrx-aha-bha-vitamin-c-super-saver-duo",
+                "weight": null,
+                "height": null,
+                "width": null,
+                "length": null,
+                "hs_code": null,
+                "origin_country": null,
+                "mid_code": null,
+                "material": null,
+                "metadata": {
+                    "excerpt": ""
+                },
+                "createdAt": "2024-05-23T15:59:05.000Z",
+                "updatedAt": "2024-11-01T01:31:02.596Z",
+                "tags": [],
+                "brandId": "nbdho6wnnbd0v3dy7h36cgqa",
+                "status": "ACTIVE",
+                "createdById": null,
+                "productCategoryId": null,
+                "thumbnail": "assets/2024/05/25.jpg",
+                "productAttributeGroupId": null,
+                "metaTitle": null,
+                "metaDescription": null,
+                "brand": {
+                    "id": "nbdho6wnnbd0v3dy7h36cgqa",
+                    "title": "Cosrx",
+                    "description": "With COS standing for cosmetics, and RX for prescriptions, COSRX has a very simple philosophy– simple ingredients that result in great formulas. K-beauty fans love their effective ingredients like snail mucin, yeast ferment, and skin-friendly exfoliants. Check out their bestsellers and new additions!",
+                    "handle": "cosrx",
+                    "image": "assets/2024/09/MainArtboard-2-31.jpg",
+                    "createdAt": "2024-11-01T01:30:47.220Z",
+                    "updatedAt": "2024-11-01T01:30:47.220Z",
+                    "deletedAt": null,
+                    "status": "ACTIVE",
+                    "metadata": null,
+                    "createdById": null
+                },
+                "productCategory": null,
+                "productCollections": [],
+                "productValuesForAttribute": [],
+                "variants": [
+                    {
+                        "id": "ivxb07jetv97r32o60qskxpe",
+                        "productId": "y9v7v2tr4wtlwsd3yh2c44si",
+                        "title": "Default",
+                        "sku": "911624",
+                        "barcode": null,
+                        "ean": null,
+                        "upc": null,
+                        "inventoryQuantity": 88,
+                        "allowBackOrder": false,
+                        "manageInventory": true,
+                        "hsCode": null,
+                        "originCountry": null,
+                        "midCode": null,
+                        "material": null,
+                        "weight": null,
+                        "height": null,
+                        "length": null,
+                        "width": null,
+                        "variantRank": 180,
+                        "price": 3400,
+                        "specialPrice": 2210,
+                        "specialPriceStartDate": null,
+                        "specialPriceEndDate": null,
+                        "inventory": 0,
+                        "metadata": null,
+                        "createdAt": "2024-11-01T01:31:02.612Z",
+                        "deletedAt": null,
+                        "updatedAt": "2024-11-01T01:31:02.612Z",
+                        "thumbnail": "assets/2024/05/25.jpg",
+                        "createdById": null,
+                        "prices": [],
+                        "originalPrice": 3400,
+                        "currentPrice": 2210,
+                        "salePrices": {}
+                    }
+                ],
+                "productImages": [],
+                "reviews": [
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    }
+                ],
+                "_count": {
+                    "lineItems": 1
+                },
+                "averageRating": 5,
+                "priceStart": 2210,
+                "priceEnd": null
+            },
+            {
+                "id": "qbt4x7fwz96y5wpgvoons7lo",
+                "title": "BOJ  Age-Defying Ginseng Set",
+                "subtitle": null,
+                "description": "<strong>SAVE 25% OFF</strong> when you get the BOJ  Age-Defying Ginseng Set to boost elasticity, smooth fine lines, and brighten your complexion.\r\n\r\n<strong>Unlock Timeless Beauty with Beauty of Joseon's Ginseng Duo</strong>\r\n\r\nExperience the transformative power of Korean skincare with our Beauty of Joseon Ginseng Essence and Revive Serum duo. This potent combination harnesses the age-defying properties of ginseng to reveal your skin's natural radiance and youthful vitality.\r\n\r\n<strong>1. Beauty of Joseon Ginseng Essence Water</strong>\r\n\r\nThis lightweight yet powerful essence is your first step to luminous skin. Infused with 80% ginseng root water and 2% niacinamide, it deeply hydrates, brightens, and evens out skin tone. The silky texture absorbs quickly, prepping your skin for maximum serum absorption.\r\n\r\n<strong>2. Beauty of Joseon revive serum</strong>\r\n\r\nThis potent serum is the perfect complement to the Ginseng Essence Water, working to revitalize and rejuvenate your skin. Key ingredients include:\r\n<ul>\r\n \t<li><strong>Ginseng Root Water (63%)</strong>: Traditionally renowned for its skin-healing properties, this ingredient provides deep hydration and nourishment.</li>\r\n \t<li><strong>Snail Mucin (3%)</strong>: Known for its skin-repairing benefits, this ingredient improves skin texture and elasticity.</li>\r\n</ul>\r\nThe Revive Serum penetrates deeply into the skin, delivering powerful anti-aging benefits and leaving your complexion looking plump, smooth, and radiant.\r\n\r\nTogether, these ginseng-powered products work in perfect synergy to:\r\n<ul>\r\n \t<li>Boost skin elasticity and firmness</li>\r\n \t<li>Smooth fine lines and wrinkles</li>\r\n \t<li>Even out skin tone and reduce hyperpigmentation</li>\r\n \t<li>Deeply hydrate and nourish the skin</li>\r\n \t<li>Enhance overall skin radiance and vitality</li>\r\n</ul>\r\n<!-- notionvc: a2c18724-6be7-43c5-b5f1-48bfe638fe6d -->\r\n\r\n<strong>Guide</strong>: After cleansing and toning, dispense a small amount of the Ginseng Essence into your hands and gently pat it onto your face and neck. Let it absorb for a few seconds, preparing your skin for the next step. Once the essence has fully absorbed, take 1 pump of the Ginseng Revive Serum and massage it evenly onto your face and neck. Focus on areas prone to fine lines and wrinkles, like around the eyes and mouth.\r\n\r\n<strong>Pro Tip</strong>: Use both in your morning and evening skincare routine for best results. Follow up with your favorite moisturizer and sunscreen during the day to lock in the benefits.",
+                "handle": "boj-eternal-youth-ginseng-duo",
+                "weight": null,
+                "height": null,
+                "width": null,
+                "length": null,
+                "hs_code": null,
+                "origin_country": null,
+                "mid_code": null,
+                "material": null,
+                "metadata": {
+                    "excerpt": ""
+                },
+                "createdAt": "2024-10-15T13:38:32.000Z",
+                "updatedAt": "2024-11-01T01:31:02.125Z",
+                "tags": [],
+                "brandId": "b11l3swaghva63finaftcvpj",
+                "status": "ACTIVE",
+                "createdById": null,
+                "productCategoryId": null,
+                "thumbnail": "assets/2024/09/MainArtboard-1-1.jpg",
+                "productAttributeGroupId": null,
+                "metaTitle": null,
+                "metaDescription": null,
+                "brand": {
+                    "id": "b11l3swaghva63finaftcvpj",
+                    "title": "Beauty of Joseon",
+                    "description": "Discover Korean beauty brand Beauty of Joseon! Beauty of Joseon features traditional skincare secrets inspired by Joseon dynasty women, combined with a minimal, modern approach to create bestselling skincare products. All of Beauty of Joseon's products are cruelty-free and made with hanbang (Korean traditional medicine) ingredients such as Ginseng, Green Tea, Snail Mucin, Propolis, and Rice. Beauty of Joseon believes that these traditional ingredients are beneficial for healthy, glowing skin.",
+                    "handle": "beauty-of-joseon",
+                    "image": "assets/2022/06/Beauty-Of-Joseon-Brand-Image.jpg",
+                    "createdAt": "2024-11-01T01:30:47.227Z",
+                    "updatedAt": "2024-11-01T01:30:47.227Z",
+                    "deletedAt": null,
+                    "status": "ACTIVE",
+                    "metadata": null,
+                    "createdById": null
+                },
+                "productCategory": null,
+                "productCollections": [],
+                "productValuesForAttribute": [],
+                "variants": [
+                    {
+                        "id": "z8owjigilii1jaqml0ugjcob",
+                        "productId": "qbt4x7fwz96y5wpgvoons7lo",
+                        "title": "Default",
+                        "sku": "1001767",
+                        "barcode": null,
+                        "ean": null,
+                        "upc": null,
+                        "inventoryQuantity": 26,
+                        "allowBackOrder": false,
+                        "manageInventory": true,
+                        "hsCode": null,
+                        "originCountry": null,
+                        "midCode": null,
+                        "material": null,
+                        "weight": null,
+                        "height": null,
+                        "length": null,
+                        "width": null,
+                        "variantRank": 5,
+                        "price": 2900,
+                        "specialPrice": 2175,
+                        "specialPriceStartDate": null,
+                        "specialPriceEndDate": null,
+                        "inventory": 0,
+                        "metadata": null,
+                        "createdAt": "2024-11-01T01:31:02.183Z",
+                        "deletedAt": null,
+                        "updatedAt": "2024-11-01T01:31:02.183Z",
+                        "thumbnail": "assets/2024/09/MainArtboard-1-1.jpg",
+                        "createdById": null,
+                        "prices": [],
+                        "originalPrice": 2900,
+                        "currentPrice": 2175,
+                        "salePrices": {}
+                    }
+                ],
+                "productImages": [],
+                "reviews": [],
+                "_count": {
+                    "lineItems": 1
+                },
+                "averageRating": null,
+                "priceStart": 2175,
+                "priceEnd": null
+            },
+            {
+                "id": "ie2ih65uvt3kowe2fhq3pcvy",
+                "title": "COSRX Acne Pimple Master Patch (BUY 1 GET 1 Free)",
+                "subtitle": null,
+                "description": "Need a quick fix for your acne situation for a date night or an event? The COSRX pimple patch has got you covered! Comes in 3 different sizes – (9 Large Dots, 5 Medium Dots, 10 Small Dots)/packet to cover almost every pimple size for the day or just stick one on and let it heal overnight – you choose!\r\n<h3><span style=\"text-decoration: underline;\">Key benefits</span></h3>\r\n<ul>\r\n \t<li>Absorbs &amp; extracts gunk from acne.</li>\r\n \t<li>Faster healing.</li>\r\n \t<li>Prevents acne scarring.</li>\r\n \t<li>Blends well with different skin tones.</li>\r\n</ul>\r\n<h3><span style=\"text-decoration: underline;\">Ideal for</span></h3>\r\n<ul>\r\n \t<li>Anyone with acne breakouts looking for an overnight fix.</li>\r\n</ul>\r\n<h3><span style=\"text-decoration: underline;\">Who can use this</span></h3>\r\n<ul>\r\n \t<li>All skin types with acne breakouts.</li>\r\n</ul>\r\n&nbsp;\r\n\r\n<em><strong>Expiry</strong>: </em>03.08.2025\r\n\r\n&nbsp;\r\n<h3><span style=\"text-decoration: underline;\">Additional product information</span></h3>\r\n<strong>Country of Origin:</strong> South Korea\r\n<strong>Manufacturer:</strong> Young Chemical Co., Ltd.\r\n<strong>Address:</strong> 80-93 Golden Route-ro, Juchon-myeon, Gimhae-si, Gyeongsangnam-do, South Korea\r\n<strong>Importer:</strong> Beauty Barn\r\n<strong>Address:</strong> 983/18, Tajen Ao Road, Dimapur – 797112, Nagaland, India\r\n<strong>Packer:</strong> Young Chemical Co., Ltd.\r\n<strong>Address:</strong> 80-93 Golden Route-ro, Juchon-myeon, Gimhae-si, Gyeongsangnam-do, South Korea",
+                "handle": "cosrx-acne-pimple-master-patch-buy-1-get-1-free",
+                "weight": null,
+                "height": null,
+                "width": null,
+                "length": null,
+                "hs_code": null,
+                "origin_country": null,
+                "mid_code": null,
+                "material": null,
+                "metadata": {
+                    "excerpt": ""
+                },
+                "createdAt": "2024-08-07T13:01:57.000Z",
+                "updatedAt": "2024-11-30T06:42:21.677Z",
+                "tags": [],
+                "brandId": null,
+                "status": "ACTIVE",
+                "createdById": null,
+                "productCategoryId": null,
+                "thumbnail": "assets/2024/08/Snail-Mucin-Gel-Cleanser-1.png",
+                "productAttributeGroupId": "cm38juptd008ndxauq15ejjz1",
+                "metaTitle": null,
+                "metaDescription": null,
+                "brand": null,
+                "productCategory": null,
+                "productCollections": [],
+                "productValuesForAttribute": [
+                    {
+                        "id": "cm43t216500fyrypklchziig1",
+                        "productId": "ie2ih65uvt3kowe2fhq3pcvy",
+                        "productAttributeId": "cm43pl4z7004crypk034hwa49",
+                        "productAttributeValueId": "cm43rvmnv009frypkahsrioi6",
+                        "value": null,
+                        "productAttribute": {
+                            "id": "cm43pl4z7004crypk034hwa49",
+                            "title": "Skin Type",
+                            "type": "SELECT",
+                            "code": "SKIN_TY",
+                            "isRequired": false,
+                            "isUnique": false,
+                            "createdAt": "2024-11-30T05:05:14.612Z",
+                            "updatedAt": "2024-11-30T06:09:23.323Z",
+                            "deletedAt": null,
+                            "metadata": null,
+                            "createdById": "cm2xp9y9h0001lov6pl5y4nic"
+                        },
+                        "productAttributeValue": {
+                            "id": "cm43rvmnv009frypkahsrioi6",
+                            "productAttributeId": "cm43pl4z7004crypk034hwa49",
+                            "value": "Combination",
+                            "position": 2,
+                            "createdAt": "2024-11-30T06:09:23.323Z",
+                            "updatedAt": "2024-11-30T06:09:23.323Z",
+                            "deletedAt": null,
+                            "metadata": null
+                        }
+                    },
+                    {
+                        "id": "cm43t216500fxrypkhp7ddjp4",
+                        "productId": "ie2ih65uvt3kowe2fhq3pcvy",
+                        "productAttributeId": "cm43p9mho002irypkkletlbtz",
+                        "productAttributeValueId": "cm43roy60007arypkfd4fz94v",
+                        "value": null,
+                        "productAttribute": {
+                            "id": "cm43p9mho002irypkkletlbtz",
+                            "title": "Skin Concern",
+                            "type": "SELECT",
+                            "code": "SKIN_CON",
+                            "isRequired": false,
+                            "isUnique": false,
+                            "createdAt": "2024-11-30T04:56:17.437Z",
+                            "updatedAt": "2024-11-30T06:04:11.640Z",
+                            "deletedAt": null,
+                            "metadata": null,
+                            "createdById": "cm2xp9y9h0001lov6pl5y4nic"
+                        },
+                        "productAttributeValue": {
+                            "id": "cm43roy60007arypkfd4fz94v",
+                            "productAttributeId": "cm43p9mho002irypkkletlbtz",
+                            "value": "Acne Control Skin Care Products",
+                            "position": 4,
+                            "createdAt": "2024-11-30T06:04:11.640Z",
+                            "updatedAt": "2024-11-30T06:04:11.640Z",
+                            "deletedAt": null,
+                            "metadata": null
+                        }
+                    },
+                    {
+                        "id": "cm43t216500fzrypkldfyy621",
+                        "productId": "ie2ih65uvt3kowe2fhq3pcvy",
+                        "productAttributeId": "cm43q0lsm0058rypknz8wzsvv",
+                        "productAttributeValueId": null,
+                        "value": null,
+                        "productAttribute": {
+                            "id": "cm43q0lsm0058rypknz8wzsvv",
+                            "title": "Routine",
+                            "type": "SELECT",
+                            "code": "ROUTINE",
+                            "isRequired": false,
+                            "isUnique": false,
+                            "createdAt": "2024-11-30T05:17:16.247Z",
+                            "updatedAt": "2024-12-02T06:30:20.077Z",
+                            "deletedAt": null,
+                            "metadata": null,
+                            "createdById": "cm2xp9y9h0001lov6pl5y4nic"
+                        },
+                        "productAttributeValue": null
+                    }
+                ],
+                "variants": [
+                    {
+                        "id": "mjeizu51dtim23t8a8eqnk4j",
+                        "productId": "ie2ih65uvt3kowe2fhq3pcvy",
+                        "title": "Default",
+                        "sku": "954748",
+                        "barcode": null,
+                        "ean": null,
+                        "upc": null,
+                        "inventoryQuantity": 0,
+                        "allowBackOrder": false,
+                        "manageInventory": true,
+                        "hsCode": null,
+                        "originCountry": null,
+                        "midCode": null,
+                        "material": null,
+                        "weight": null,
+                        "height": null,
+                        "length": null,
+                        "width": null,
+                        "variantRank": 64,
+                        "price": 280,
+                        "specialPrice": null,
+                        "specialPriceStartDate": null,
+                        "specialPriceEndDate": null,
+                        "inventory": 0,
+                        "metadata": null,
+                        "createdAt": "2024-11-01T01:31:02.315Z",
+                        "deletedAt": null,
+                        "updatedAt": "2024-11-01T01:31:02.315Z",
+                        "thumbnail": "assets/2024/08/Snail-Mucin-Gel-Cleanser-1.png",
+                        "createdById": null,
+                        "prices": [],
+                        "originalPrice": 280,
+                        "currentPrice": 280,
+                        "salePrices": {}
+                    }
+                ],
+                "productImages": [],
+                "reviews": [
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 4
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 4
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5
+                    }
+                ],
+                "_count": {
+                    "lineItems": 0
+                },
+                "averageRating": 4.882352941176471,
+                "priceStart": 280,
+                "priceEnd": null
+            },
+            {
+                "id": "gu7es26a1si698m7gicm3xwm",
+                "title": "Beauty of Joseon Revive Serum: Ginseng + Snail Mucin 1ml (1+1)",
+                "subtitle": null,
+                "description": "refer to full sized product for ingredients and usage <a href=\"https://beautybarn.in/product/revive-serum-ginseng-snail-mucin-30ml/\">here</a>\r\n\r\n<strong>Country of Origin:</strong> South Korea\r\n<strong>Manufacturer: </strong>M/s. Green Cos co ltd.\r\n<strong>Address: </strong>M/s. Green Cos co ltd., 64-30, Hagunsandan 1-ro, Yangchon-eup, Gimpo-si, Gyeonggi-do, korea-South Korea\r\n<strong>Importer: </strong><strong>Beauty Barn</strong><strong>\r\nAddress:</strong>  983/18, Tajen Ao Road,\r\nDimapur – 797112, Nagaland, India\r\n<strong>Packer:</strong> M/s. Green Cos co ltd., 64-30, Hagunsandan 1-ro, Yangchon-eup, Gimpo-si, Gyeonggi-do, korea-South Korea",
+                "handle": "beauty-of-joseon-revive-serum-ginseng-snail-mucin-1ml-22",
+                "weight": null,
+                "height": null,
+                "width": null,
+                "length": null,
+                "hs_code": null,
+                "origin_country": null,
+                "mid_code": null,
+                "material": null,
+                "metadata": {
+                    "excerpt": ""
+                },
+                "createdAt": "2024-09-26T23:59:53.000Z",
+                "updatedAt": "2024-11-01T01:31:02.128Z",
+                "tags": [],
+                "brandId": "b11l3swaghva63finaftcvpj",
+                "status": "ACTIVE",
+                "createdById": null,
+                "productCategoryId": null,
+                "thumbnail": "assets/2024/04/BOJ-Revive-Serum.jpg",
+                "productAttributeGroupId": null,
+                "metaTitle": null,
+                "metaDescription": null,
+                "brand": {
+                    "id": "b11l3swaghva63finaftcvpj",
+                    "title": "Beauty of Joseon",
+                    "description": "Discover Korean beauty brand Beauty of Joseon! Beauty of Joseon features traditional skincare secrets inspired by Joseon dynasty women, combined with a minimal, modern approach to create bestselling skincare products. All of Beauty of Joseon's products are cruelty-free and made with hanbang (Korean traditional medicine) ingredients such as Ginseng, Green Tea, Snail Mucin, Propolis, and Rice. Beauty of Joseon believes that these traditional ingredients are beneficial for healthy, glowing skin.",
+                    "handle": "beauty-of-joseon",
+                    "image": "assets/2022/06/Beauty-Of-Joseon-Brand-Image.jpg",
+                    "createdAt": "2024-11-01T01:30:47.227Z",
+                    "updatedAt": "2024-11-01T01:30:47.227Z",
+                    "deletedAt": null,
+                    "status": "ACTIVE",
+                    "metadata": null,
+                    "createdById": null
+                },
+                "productCategory": null,
+                "productCollections": [],
+                "productValuesForAttribute": [],
+                "variants": [
+                    {
+                        "id": "qfmr7yb2bf1xrklsw6asgu4t",
+                        "productId": "gu7es26a1si698m7gicm3xwm",
+                        "title": "Default",
+                        "sku": "865386",
+                        "barcode": null,
+                        "ean": null,
+                        "upc": null,
+                        "inventoryQuantity": 100,
+                        "allowBackOrder": false,
+                        "manageInventory": true,
+                        "hsCode": null,
+                        "originCountry": null,
+                        "midCode": null,
+                        "material": null,
+                        "weight": null,
+                        "height": null,
+                        "length": null,
+                        "width": null,
+                        "variantRank": 22,
+                        "price": 300,
+                        "specialPrice": 99,
+                        "specialPriceStartDate": null,
+                        "specialPriceEndDate": null,
+                        "inventory": 0,
+                        "metadata": null,
+                        "createdAt": "2024-11-01T01:31:02.184Z",
+                        "deletedAt": null,
+                        "updatedAt": "2024-11-01T01:31:02.184Z",
+                        "thumbnail": "assets/2024/04/BOJ-Revive-Serum.jpg",
+                        "createdById": null,
+                        "prices": [],
+                        "originalPrice": 300,
+                        "currentPrice": 99,
+                        "salePrices": {}
+                    }
+                ],
+                "productImages": [],
+                "reviews": [],
+                "_count": {
+                    "lineItems": 0
+                },
+                "averageRating": null,
+                "priceStart": 99,
+                "priceEnd": null
+            }
+        ],
+        "brands": [
+            {
+                "id": "nbdho6wnnbd0v3dy7h36cgqa",
+                "handle": "cosrx",
+                "name": "Cosrx",
+                "productCount": 64
+            },
+            {
+                "id": "b11l3swaghva63finaftcvpj",
+                "handle": "beauty-of-joseon",
+                "name": "Beauty of Joseon",
+                "productCount": 28
+            },
+            {
+                "id": "i5wtifkn1i2i4qscunaby07i",
+                "handle": "im-from",
+                "name": "I'm from",
+                "productCount": 25
+            },
+            {
+                "id": "nzi7tujhi2l51oijf9bj26z4",
+                "handle": "ilimi",
+                "name": "Ilimi",
+                "productCount": 25
+            },
+            {
+                "id": "r4argx6qemat6zbn6plq66q7",
+                "handle": "dear-klairs",
+                "name": "Dear Klairs",
+                "productCount": 23
+            },
+            {
+                "id": "b5rkib28isphrntojfdf4l8x",
+                "handle": "isntree",
+                "name": "Isntree",
+                "productCount": 22
+            },
+            {
+                "id": "r5f3w576nctj88umc491k784",
+                "handle": "lilybyred",
+                "name": "Lilybyred",
+                "productCount": 15
+            },
+            {
+                "id": "x13e9ktjmgsi0k9r52eg3f9j",
+                "handle": "annalia-beauty",
+                "name": "Annalia Beauty",
+                "productCount": 13
+            },
+            {
+                "id": "bb9a3y4iuiiig3ht1gbtdmfa",
+                "handle": "bywishtrend",
+                "name": "By Wishtrend",
+                "productCount": 12
+            },
+            {
+                "id": "h1atlorf60h30313no1hrprg",
+                "handle": "somebymi",
+                "name": "SOME BY MI",
+                "productCount": 11
+            },
+            {
+                "id": "g3i3ixipodd0m0qqe6mzogk8",
+                "handle": "axis-y",
+                "name": "AXIS-Y",
+                "productCount": 9
+            },
+            {
+                "id": "uvy0oc2qqqe29fwvypyz8cvr",
+                "handle": "holika-holika",
+                "name": "Holika Holika",
+                "productCount": 6
+            },
+            {
+                "id": "qdg2rbgxhvcd7zvsnsy9225c",
+                "handle": "vt-cosmetics",
+                "name": "VT Cosmetics",
+                "productCount": 3
+            },
+            {
+                "id": "v05dhlbjsff22v2bw7gyalpz",
+                "handle": "muldream",
+                "name": "Muldream",
+                "productCount": 3
+            },
+            {
+                "id": "s3lz2rzaorp48io8hgc3kyxu",
+                "handle": "haruharu",
+                "name": "Haruharu",
+                "productCount": 2
+            },
+            {
+                "id": "gtqaphcerkpmzdjyy7t2w74s",
+                "handle": "priveda",
+                "name": "Priveda",
+                "productCount": 2
+            },
+            {
+                "id": "cti0qia9vnjrrc6rwxoaq6hi",
+                "handle": "im-sorry-for-my-skin",
+                "name": "I'm Sorry For My Skin",
+                "productCount": 1
+            },
+            {
+                "id": "gzmuxob3t2ormpouswnd5m9i",
+                "handle": "ribeskin-brands",
+                "name": "Ribeskin",
+                "productCount": 1
+            },
+            {
+                "id": "aaswe9og6g9nkfceo30mx2lt",
+                "handle": "spot-patch",
+                "name": "Spot Patch",
+                "productCount": 1
+            },
+            {
+                "id": "clv1ytqejww795a9rst3agaw",
+                "handle": "benton",
+                "name": "Benton",
+                "productCount": 1
+            },
+            {
+                "id": "a1o4ch647zgv2s1q9x2ul4kw",
+                "handle": "elizavecca-13512",
+                "name": "Elizavecca",
+                "productCount": 1
+            }
+        ],
+        "attributes": [
+            {
+                "title": "Skin Type",
+                "code": "SKIN_TY",
+                "values": [
+                    {
+                        "value": "Normal",
+                        "productCount": 37
+                    },
+                    {
+                        "value": "Oily",
+                        "productCount": 43
+                    },
+                    {
+                        "value": "Combination",
+                        "productCount": 17
+                    },
+                    {
+                        "value": "Dry",
+                        "productCount": 23
+                    }
+                ]
+            },
+            {
+                "title": "Skin Concern",
+                "code": "SKIN_CON",
+                "values": [
+                    {
+                        "value": "Best Anti-Aging Products Online",
+                        "productCount": 29
+                    },
+                    {
+                        "value": "Acne Control Skin Care Products",
+                        "productCount": 11
+                    },
+                    {
+                        "value": "Pigmentation Skin Care Products",
+                        "productCount": 18
+                    },
+                    {
+                        "value": "Hydrating Dry Skin Care Products",
+                        "productCount": 16
+                    },
+                    {
+                        "value": "Sensitive Skin Products",
+                        "productCount": 10
+                    },
+                    {
+                        "value": "Oily Skin Care Products",
+                        "productCount": 19
+                    },
+                    {
+                        "value": "Facial Redness Reducing Products",
+                        "productCount": 14
+                    },
+                    {
+                        "value": "Effective Skin Care Products",
+                        "productCount": 3
+                    }
+                ]
+            },
+            {
+                "title": "Routine",
+                "code": "ROUTINE",
+                "values": [
+                    {
+                        "value": "Dry/Dull/Tired/Dehydrated Skin",
+                        "productCount": 1
+                    },
+                    {
+                        "value": "Anti-Aging/Fine Lines/Sun Spots",
+                        "productCount": 1
+                    },
+                    {
+                        "value": "Acne-Prone Skin / Severe Breakouts / Scars",
+                        "productCount": 1
+                    }
+                ]
+            },
+            {
+                "title": "Skin Care",
+                "code": "SK_CON",
+                "values": [
+                    {
+                        "value": "Toners",
+                        "productCount": 1
+                    },
+                    {
+                        "value": "Sunscreen",
+                        "productCount": 1
+                    },
+                    {
+                        "value": "Serums & Ampoules",
+                        "productCount": 1
+                    }
+                ]
+            }
+        ],
+        "ratingsCounts": {
+            "1": 144,
+            "2": 143,
+            "3": 141,
+            "4": 122,
+            "5": 33
+        }
+    },
+    "path": "/store/product-search",
+    "message": "Success",
+
+   
+
+    "meta": {
+        "total": 282,
+        "items": 20,
+        "perPage": 20,
+        "currentPage": 1,
+        "lastPage": 15
+    }
+}

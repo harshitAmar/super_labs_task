@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503039274314",
+    "project_id": "super-labs-task",
+    "storage_bucket": "super-labs-task.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503039274314:android:1a3a3381d0a351d4a965b3",
+        "android_client_info": {
+          "package_name": "com.devop.super_labs_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZGx4HZsZH2A1tz0Jr9r_iKFCJir_fe4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
